@@ -1,0 +1,7 @@
+int id description 0x0
+int id like 0x0
+int id price 0x0
+int id recycler 0x0
+int id title 0x0
+int layout fragment_favorites 0x0
+int layout item_course 0x0

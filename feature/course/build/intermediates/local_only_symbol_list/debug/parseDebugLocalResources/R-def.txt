@@ -1,0 +1,8 @@
+R_DEF: Internal format may change without notice
+local
+id about
+id about_title
+id open_platform
+id start
+id title
+layout fragment_course

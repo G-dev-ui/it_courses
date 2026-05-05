@@ -1,0 +1,9 @@
+R_DEF: Internal format may change without notice
+local
+id description
+id like
+id price
+id recycler
+id title
+layout fragment_favorites
+layout item_course

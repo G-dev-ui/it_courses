@@ -1,0 +1,62 @@
+com.itcourses.app-navigation-ui-2.8.5-0 C:\Users\korol\.gradle\caches\8.10\transforms\001d91d43a4e5114b9ab273d20001949\transformed\navigation-ui-2.8.5\res
+com.itcourses.app-viewpager2-1.1.0-beta02-1 C:\Users\korol\.gradle\caches\8.10\transforms\0407c96d1b6d852b83f617e8e52bfabc\transformed\viewpager2-1.1.0-beta02\res
+com.itcourses.app-fragment-1.8.5-2 C:\Users\korol\.gradle\caches\8.10\transforms\0d4fc1c583a76d123240cdb96b0a030e\transformed\fragment-1.8.5\res
+com.itcourses.app-navigation-common-2.8.5-3 C:\Users\korol\.gradle\caches\8.10\transforms\133c514d7a1bf30059794a22b0c767ce\transformed\navigation-common-2.8.5\res
+com.itcourses.app-emoji2-1.3.0-4 C:\Users\korol\.gradle\caches\8.10\transforms\1635cbeb873737610b1d1154bb43f6ab\transformed\emoji2-1.3.0\res
+com.itcourses.app-cardview-1.0.0-5 C:\Users\korol\.gradle\caches\8.10\transforms\1bb95217f5328ac54b0fe4d0c128144b\transformed\cardview-1.0.0\res
+com.itcourses.app-lifecycle-runtime-release-6 C:\Users\korol\.gradle\caches\8.10\transforms\25fe628e740188056a91b740bfe96b3b\transformed\lifecycle-runtime-release\res
+com.itcourses.app-window-1.0.0-7 C:\Users\korol\.gradle\caches\8.10\transforms\2eb5542b411dfacc192aa0ee59860a4a\transformed\window-1.0.0\res
+com.itcourses.app-activity-1.9.3-8 C:\Users\korol\.gradle\caches\8.10\transforms\33acca08b234f69821eedbb38f536072\transformed\activity-1.9.3\res
+com.itcourses.app-activity-ktx-1.9.3-9 C:\Users\korol\.gradle\caches\8.10\transforms\3d7a4da606de09a1339b88daf42fa0de\transformed\activity-ktx-1.9.3\res
+com.itcourses.app-material-1.12.0-10 C:\Users\korol\.gradle\caches\8.10\transforms\40cac7222c7f12283dfe9e3b6ddd3d41\transformed\material-1.12.0\res
+com.itcourses.app-lifecycle-runtime-ktx-release-11 C:\Users\korol\.gradle\caches\8.10\transforms\4616271183ac41d68fc2afc1bb16e50f\transformed\lifecycle-runtime-ktx-release\res
+com.itcourses.app-recyclerview-1.3.2-12 C:\Users\korol\.gradle\caches\8.10\transforms\4c5ac5f5df0b64edec9b80b1a50755c3\transformed\recyclerview-1.3.2\res
+com.itcourses.app-navigation-fragment-2.8.5-13 C:\Users\korol\.gradle\caches\8.10\transforms\552d3a68605787142a801dcd93d99938\transformed\navigation-fragment-2.8.5\res
+com.itcourses.app-datastore-core-release-14 C:\Users\korol\.gradle\caches\8.10\transforms\560d54c8e57795c8f91e54e38d046461\transformed\datastore-core-release\res
+com.itcourses.app-profileinstaller-1.4.0-15 C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\res
+com.itcourses.app-core-ktx-1.13.1-16 C:\Users\korol\.gradle\caches\8.10\transforms\6b2bd96d67335cb3b1924ded50bcf249\transformed\core-ktx-1.13.1\res
+com.itcourses.app-savedstate-1.2.1-17 C:\Users\korol\.gradle\caches\8.10\transforms\6f6384a5f226e0d6b14885315f9d8dbb\transformed\savedstate-1.2.1\res
+com.itcourses.app-navigation-ui-ktx-2.8.5-18 C:\Users\korol\.gradle\caches\8.10\transforms\82ad181fea243e2f4094cfab1d99fd41\transformed\navigation-ui-ktx-2.8.5\res
+com.itcourses.app-navigation-runtime-ktx-2.8.5-19 C:\Users\korol\.gradle\caches\8.10\transforms\854f786fd9fd43ec18bcf2a325f819e3\transformed\navigation-runtime-ktx-2.8.5\res
+com.itcourses.app-core-bundle-debug-20 C:\Users\korol\.gradle\caches\8.10\transforms\85fe6a1aae7c28100860b312220af053\transformed\core-bundle-debug\res
+com.itcourses.app-navigation-fragment-ktx-2.8.5-21 C:\Users\korol\.gradle\caches\8.10\transforms\8b637bc68d2bef441afcfc3b8dee23e5\transformed\navigation-fragment-ktx-2.8.5\res
+com.itcourses.app-navigation-common-ktx-2.8.5-22 C:\Users\korol\.gradle\caches\8.10\transforms\8d12e4bc362698ad4582d886b3f8bb2a\transformed\navigation-common-ktx-2.8.5\res
+com.itcourses.app-startup-runtime-1.1.1-23 C:\Users\korol\.gradle\caches\8.10\transforms\918463324cb1a470401d7cfbbe3b6870\transformed\startup-runtime-1.1.1\res
+com.itcourses.app-lifecycle-viewmodel-release-24 C:\Users\korol\.gradle\caches\8.10\transforms\9870285a05e6ffee48ac435e103ff693\transformed\lifecycle-viewmodel-release\res
+com.itcourses.app-appcompat-resources-1.7.0-25 C:\Users\korol\.gradle\caches\8.10\transforms\995ca44f6e2a9a3aab86bad91dd880fb\transformed\appcompat-resources-1.7.0\res
+com.itcourses.app-core-runtime-2.2.0-26 C:\Users\korol\.gradle\caches\8.10\transforms\a1c1c2c25c4cb821b155ef6c0129947a\transformed\core-runtime-2.2.0\res
+com.itcourses.app-slidingpanelayout-1.2.0-27 C:\Users\korol\.gradle\caches\8.10\transforms\a561c4ceeadb8182ffcf0bf7b58166ee\transformed\slidingpanelayout-1.2.0\res
+com.itcourses.app-appcompat-1.7.0-28 C:\Users\korol\.gradle\caches\8.10\transforms\ba8f781badbe8c24b478570679cf0355\transformed\appcompat-1.7.0\res
+com.itcourses.app-lifecycle-livedata-2.8.7-29 C:\Users\korol\.gradle\caches\8.10\transforms\bff6ba009c2de60e40c9209871de88cf\transformed\lifecycle-livedata-2.8.7\res
+com.itcourses.app-datastore-preferences-release-30 C:\Users\korol\.gradle\caches\8.10\transforms\c4ad3fa601d372002f23232794cc3652\transformed\datastore-preferences-release\res
+com.itcourses.app-core-1.13.1-31 C:\Users\korol\.gradle\caches\8.10\transforms\c616d0f7bbf0a506ea70f89211d05014\transformed\core-1.13.1\res
+com.itcourses.app-lifecycle-viewmodel-ktx-2.8.7-32 C:\Users\korol\.gradle\caches\8.10\transforms\c75332fa46f6dfd6f8a2f0d4ae73fad7\transformed\lifecycle-viewmodel-ktx-2.8.7\res
+com.itcourses.app-constraintlayout-2.2.0-33 C:\Users\korol\.gradle\caches\8.10\transforms\c7880991ce48fc1aea5a5338f2820479\transformed\constraintlayout-2.2.0\res
+com.itcourses.app-emoji2-views-helper-1.3.0-34 C:\Users\korol\.gradle\caches\8.10\transforms\c84f22189d45f0c13698a031362f8364\transformed\emoji2-views-helper-1.3.0\res
+com.itcourses.app-lifecycle-process-2.8.7-35 C:\Users\korol\.gradle\caches\8.10\transforms\cc2f57b0f7f35b585571e2c786f610e9\transformed\lifecycle-process-2.8.7\res
+com.itcourses.app-navigation-runtime-2.8.5-36 C:\Users\korol\.gradle\caches\8.10\transforms\d21659a9c4a54dd73f4e96300bdc8279\transformed\navigation-runtime-2.8.5\res
+com.itcourses.app-lifecycle-livedata-core-ktx-2.8.7-37 C:\Users\korol\.gradle\caches\8.10\transforms\d49462e29eb65652a467b07bf25a6e17\transformed\lifecycle-livedata-core-ktx-2.8.7\res
+com.itcourses.app-lifecycle-viewmodel-savedstate-2.8.7-38 C:\Users\korol\.gradle\caches\8.10\transforms\d58a4d447b6e199ce43b388f7345e9d9\transformed\lifecycle-viewmodel-savedstate-2.8.7\res
+com.itcourses.app-transition-1.5.0-39 C:\Users\korol\.gradle\caches\8.10\transforms\d58fd04a6108dfd56172cecc6463bc66\transformed\transition-1.5.0\res
+com.itcourses.app-lifecycle-livedata-core-2.8.7-40 C:\Users\korol\.gradle\caches\8.10\transforms\dfa27e1674aba29cebdac8f90c69685e\transformed\lifecycle-livedata-core-2.8.7\res
+com.itcourses.app-savedstate-ktx-1.2.1-41 C:\Users\korol\.gradle\caches\8.10\transforms\e3039cdc62fc01d2df89d5fc765607bb\transformed\savedstate-ktx-1.2.1\res
+com.itcourses.app-datastore-release-42 C:\Users\korol\.gradle\caches\8.10\transforms\e34184771fc3e9c90002d5a50b0bdd62\transformed\datastore-release\res
+com.itcourses.app-customview-poolingcontainer-1.0.0-43 C:\Users\korol\.gradle\caches\8.10\transforms\e5eecc18aa005e6287a0ab9f6a807673\transformed\customview-poolingcontainer-1.0.0\res
+com.itcourses.app-drawerlayout-1.1.1-44 C:\Users\korol\.gradle\caches\8.10\transforms\f3461c6826dca31603d75903a775f977\transformed\drawerlayout-1.1.1\res
+com.itcourses.app-annotation-experimental-1.4.1-45 C:\Users\korol\.gradle\caches\8.10\transforms\f38487d52644a6ad203a3af74fa73973\transformed\annotation-experimental-1.4.1\res
+com.itcourses.app-fragment-ktx-1.8.5-46 C:\Users\korol\.gradle\caches\8.10\transforms\f3b8eae6b14ae6fde0b23ccec0d18fe5\transformed\fragment-ktx-1.8.5\res
+com.itcourses.app-coordinatorlayout-1.1.0-47 C:\Users\korol\.gradle\caches\8.10\transforms\f8ac5fb024ef3420da37dc53bfad8f53\transformed\coordinatorlayout-1.1.0\res
+com.itcourses.app-pngs-48 C:\Users\korol\OneDrive\Desktop\it courses\app\build\generated\res\pngs\debug
+com.itcourses.app-resValues-49 C:\Users\korol\OneDrive\Desktop\it courses\app\build\generated\res\resValues\debug
+com.itcourses.app-packageDebugResources-50 C:\Users\korol\OneDrive\Desktop\it courses\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.itcourses.app-packageDebugResources-51 C:\Users\korol\OneDrive\Desktop\it courses\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.itcourses.app-debug-52 C:\Users\korol\OneDrive\Desktop\it courses\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.itcourses.app-debug-53 C:\Users\korol\OneDrive\Desktop\it courses\app\src\debug\res
+com.itcourses.app-main-54 C:\Users\korol\OneDrive\Desktop\it courses\app\src\main\res
+com.itcourses.app-debug-55 C:\Users\korol\OneDrive\Desktop\it courses\core\network-mock\build\intermediates\packaged_res\debug\packageDebugResources
+com.itcourses.app-debug-56 C:\Users\korol\OneDrive\Desktop\it courses\core\network\build\intermediates\packaged_res\debug\packageDebugResources
+com.itcourses.app-debug-57 C:\Users\korol\OneDrive\Desktop\it courses\core\ui\build\intermediates\packaged_res\debug\packageDebugResources
+com.itcourses.app-debug-58 C:\Users\korol\OneDrive\Desktop\it courses\feature\course\build\intermediates\packaged_res\debug\packageDebugResources
+com.itcourses.app-debug-59 C:\Users\korol\OneDrive\Desktop\it courses\feature\favorites\build\intermediates\packaged_res\debug\packageDebugResources
+com.itcourses.app-debug-60 C:\Users\korol\OneDrive\Desktop\it courses\feature\home\build\intermediates\packaged_res\debug\packageDebugResources
+com.itcourses.app-debug-61 C:\Users\korol\OneDrive\Desktop\it courses\feature\profile\build\intermediates\packaged_res\debug\packageDebugResources
