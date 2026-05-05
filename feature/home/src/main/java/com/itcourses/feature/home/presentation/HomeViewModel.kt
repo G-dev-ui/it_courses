@@ -32,7 +32,7 @@ class HomeViewModel(
                         _state.update {
                             it.copy(
                                 isLoading = false,
-                                items = mapCourses(result.value, it.query),
+                                items = mapCourses(result.value, it.query, it.sortAscending),
                                 errorMessage = null,
                             )
                         }
@@ -46,27 +46,52 @@ class HomeViewModel(
     }
 
     fun onQueryChanged(query: String) {
-        _state.update { it.copy(query = query, items = mapCourses(allCourses.value, query)) }
+        _state.update {
+            it.copy(
+                query = query,
+                items = mapCourses(allCourses.value, query, it.sortAscending),
+            )
+        }
     }
 
     fun onToggleFavorite(courseId: Long) {
         viewModelScope.launch {
-            toggleFavorite(courseId).collect()
+            toggleFavorite(courseId).collect { /* ignore */ }
         }
     }
 
-    private fun mapCourses(courses: List<Course>, query: String): List<CourseUiModel> {
+    fun onToggleSort() {
+        _state.update {
+            val newSortAsc = !it.sortAscending
+            it.copy(
+                sortAscending = newSortAsc,
+                items = mapCourses(allCourses.value, it.query, newSortAsc),
+            )
+        }
+    }
+
+    private fun mapCourses(courses: List<Course>, query: String, sortAscending: Boolean): List<CourseUiModel> {
         val q = query.trim().lowercase()
         val filtered = if (q.isEmpty()) courses else courses.filter {
             it.title.lowercase().contains(q) || it.description.lowercase().contains(q)
         }
-        return filtered.map {
+
+        val sorted = filtered.sortedWith { a, b ->
+            val left = a.publishDate
+            val right = b.publishDate
+            if (sortAscending) left.compareTo(right) else right.compareTo(left)
+        }
+
+        return sorted.map {
             CourseUiModel(
                 id = it.id,
                 title = it.title,
                 description = it.description,
                 price = it.price,
                 isFavorite = it.isFavorite,
+                rate = it.rate,
+                startDateIso = it.startDate,
+                publishDateIso = it.publishDate,
             )
         }
     }

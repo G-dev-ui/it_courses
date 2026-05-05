@@ -5,5 +5,7 @@ data class CourseUiModel(
     val title: String,
     val description: String,
     val price: String,
+    val rate: String,
+    val startDateIso: String,
 )
 

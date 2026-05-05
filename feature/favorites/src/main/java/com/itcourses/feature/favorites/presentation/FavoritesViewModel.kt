@@ -27,7 +27,14 @@ class FavoritesViewModel(
                         it.copy(
                             isLoading = false,
                             items = result.value.map { c ->
-                                CourseUiModel(c.id, c.title, c.description, c.price)
+                                CourseUiModel(
+                                    id = c.id,
+                                    title = c.title,
+                                    description = c.description,
+                                    price = c.price,
+                                    rate = c.rate,
+                                    startDateIso = c.startDate,
+                                )
                             },
                             errorMessage = null,
                         )
@@ -42,7 +49,7 @@ class FavoritesViewModel(
 
     fun onUnfavorite(courseId: Long) {
         viewModelScope.launch {
-            toggleFavorite(courseId).collect()
+            toggleFavorite(courseId).collect { /* ignore */ }
         }
     }
 }

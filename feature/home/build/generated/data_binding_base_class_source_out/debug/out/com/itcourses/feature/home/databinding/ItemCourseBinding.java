@@ -5,12 +5,14 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageButton;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
+import com.google.android.material.imageview.ShapeableImageView;
 import com.itcourses.feature.home.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -21,28 +23,54 @@ public final class ItemCourseBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
+  public final ImageButton bookmark;
+
+  @NonNull
   public final TextView description;
 
   @NonNull
   public final TextView details;
 
   @NonNull
-  public final ImageButton like;
+  public final TextView detailsArrow;
+
+  @NonNull
+  public final LinearLayout detailsContainer;
+
+  @NonNull
+  public final ShapeableImageView image;
 
   @NonNull
   public final TextView price;
 
   @NonNull
+  public final TextView rate;
+
+  @NonNull
+  public final LinearLayout ratingChip;
+
+  @NonNull
+  public final TextView startDate;
+
+  @NonNull
   public final TextView title;
 
-  private ItemCourseBinding(@NonNull ConstraintLayout rootView, @NonNull TextView description,
-      @NonNull TextView details, @NonNull ImageButton like, @NonNull TextView price,
-      @NonNull TextView title) {
+  private ItemCourseBinding(@NonNull ConstraintLayout rootView, @NonNull ImageButton bookmark,
+      @NonNull TextView description, @NonNull TextView details, @NonNull TextView detailsArrow,
+      @NonNull LinearLayout detailsContainer, @NonNull ShapeableImageView image,
+      @NonNull TextView price, @NonNull TextView rate, @NonNull LinearLayout ratingChip,
+      @NonNull TextView startDate, @NonNull TextView title) {
     this.rootView = rootView;
+    this.bookmark = bookmark;
     this.description = description;
     this.details = details;
-    this.like = like;
+    this.detailsArrow = detailsArrow;
+    this.detailsContainer = detailsContainer;
+    this.image = image;
     this.price = price;
+    this.rate = rate;
+    this.ratingChip = ratingChip;
+    this.startDate = startDate;
     this.title = title;
   }
 
@@ -73,6 +101,12 @@ public final class ItemCourseBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.bookmark;
+      ImageButton bookmark = ViewBindings.findChildViewById(rootView, id);
+      if (bookmark == null) {
+        break missingId;
+      }
+
       id = R.id.description;
       TextView description = ViewBindings.findChildViewById(rootView, id);
       if (description == null) {
@@ -85,9 +119,21 @@ public final class ItemCourseBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.like;
-      ImageButton like = ViewBindings.findChildViewById(rootView, id);
-      if (like == null) {
+      id = R.id.details_arrow;
+      TextView detailsArrow = ViewBindings.findChildViewById(rootView, id);
+      if (detailsArrow == null) {
+        break missingId;
+      }
+
+      id = R.id.details_container;
+      LinearLayout detailsContainer = ViewBindings.findChildViewById(rootView, id);
+      if (detailsContainer == null) {
+        break missingId;
+      }
+
+      id = R.id.image;
+      ShapeableImageView image = ViewBindings.findChildViewById(rootView, id);
+      if (image == null) {
         break missingId;
       }
 
@@ -97,14 +143,32 @@ public final class ItemCourseBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.rate;
+      TextView rate = ViewBindings.findChildViewById(rootView, id);
+      if (rate == null) {
+        break missingId;
+      }
+
+      id = R.id.rating_chip;
+      LinearLayout ratingChip = ViewBindings.findChildViewById(rootView, id);
+      if (ratingChip == null) {
+        break missingId;
+      }
+
+      id = R.id.start_date;
+      TextView startDate = ViewBindings.findChildViewById(rootView, id);
+      if (startDate == null) {
+        break missingId;
+      }
+
       id = R.id.title;
       TextView title = ViewBindings.findChildViewById(rootView, id);
       if (title == null) {
         break missingId;
       }
 
-      return new ItemCourseBinding((ConstraintLayout) rootView, description, details, like, price,
-          title);
+      return new ItemCourseBinding((ConstraintLayout) rootView, bookmark, description, details,
+          detailsArrow, detailsContainer, image, price, rate, ratingChip, startDate, title);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

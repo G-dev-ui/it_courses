@@ -1,14 +1,22 @@
 [
     {
-        "merged": "com.itcourses.app-debug-52:/navigation_nav_graph.xml.flat",
-        "source": "com.itcourses.app-main-54:/navigation/nav_graph.xml"
+        "merged": "C:\\Users\\korol\\.gradle\\daemon\\8.10\\com.itcourses.app-debug-52:\\menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\korol\\.gradle\\daemon\\8.10\\com.itcourses.app-main-54:\\menu\\bottom_nav.xml"
     },
     {
         "merged": "com.itcourses.app-debug-52:/menu_bottom_nav.xml.flat",
         "source": "com.itcourses.app-main-54:/menu/bottom_nav.xml"
     },
     {
-        "merged": "com.itcourses.app-debug-52:/layout_activity_main.xml.flat",
-        "source": "com.itcourses.app-main-54:/layout/activity_main.xml"
+        "merged": "C:\\Users\\korol\\.gradle\\daemon\\8.10\\com.itcourses.app-debug-52:\\color_bottom_nav_item.xml.flat",
+        "source": "C:\\Users\\korol\\.gradle\\daemon\\8.10\\com.itcourses.app-main-54:\\color\\bottom_nav_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\korol\\.gradle\\daemon\\8.10\\com.itcourses.app-debug-52:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\korol\\.gradle\\daemon\\8.10\\com.itcourses.app-main-54:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\korol\\.gradle\\daemon\\8.10\\com.itcourses.app-debug-52:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\korol\\.gradle\\daemon\\8.10\\com.itcourses.app-main-54:\\layout\\activity_main.xml"
     }
 ]

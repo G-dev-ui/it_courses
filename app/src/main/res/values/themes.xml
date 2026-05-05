@@ -1,12 +1,13 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
     <style name="Theme.Courses" parent="Theme.MaterialComponents.DayNight.NoActionBar">
-        <item name="colorPrimary">@android:color/black</item>
-        <item name="colorPrimaryVariant">@android:color/black</item>
-        <item name="colorOnPrimary">@android:color/white</item>
-        <item name="colorSecondary">@android:color/holo_green_dark</item>
-        <item name="colorSecondaryVariant">@android:color/holo_green_dark</item>
-        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="colorPrimary">@color/c_surface</item>
+        <item name="colorPrimaryVariant">@color/c_surface</item>
+        <item name="colorOnPrimary">@color/c_white</item>
+        <item name="colorSecondary">@color/c_accent</item>
+        <item name="colorSecondaryVariant">@color/c_accent</item>
+        <item name="colorOnSecondary">@color/c_white</item>
+        <item name="android:windowBackground">@color/c_bg</item>
         <item name="android:statusBarColor" tools:targetApi="l">@android:color/transparent</item>
     </style>
 

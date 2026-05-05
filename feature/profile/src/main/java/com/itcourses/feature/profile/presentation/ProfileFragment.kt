@@ -1,8 +1,8 @@
 package com.itcourses.feature.profile.presentation
 
+import android.net.Uri
 import android.os.Bundle
 import android.view.View
-import androidx.core.os.bundleOf
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
@@ -10,7 +10,6 @@ import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.hannesdorfmann.adapterdelegates4.ListDelegationAdapter
 import com.itcourses.core.ui.base.BaseFragment
-import com.itcourses.feature.profile.R
 import com.itcourses.feature.profile.databinding.FragmentProfileBinding
 import com.itcourses.feature.profile.presentation.list.myCourseDelegate
 import com.itcourses.feature.profile.presentation.model.MyCourseUiModel
@@ -40,10 +39,7 @@ class ProfileFragment : BaseFragment<FragmentProfileBinding>(FragmentProfileBind
     }
 
     private fun navigateToCourse(course: MyCourseUiModel) {
-        findNavController().navigate(
-            R.id.courseFragment,
-            bundleOf("courseId" to course.id.toString()),
-        )
+        findNavController().navigate(Uri.parse("courses://course/${course.id}"))
     }
 }
 

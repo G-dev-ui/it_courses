@@ -1,8 +1,8 @@
 package com.itcourses.feature.favorites.presentation
 
+import android.net.Uri
 import android.os.Bundle
 import android.view.View
-import androidx.core.os.bundleOf
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.lifecycleScope
 import androidx.lifecycle.repeatOnLifecycle
@@ -10,7 +10,6 @@ import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.hannesdorfmann.adapterdelegates4.ListDelegationAdapter
 import com.itcourses.core.ui.base.BaseFragment
-import com.itcourses.feature.favorites.R
 import com.itcourses.feature.favorites.databinding.FragmentFavoritesBinding
 import com.itcourses.feature.favorites.presentation.list.favoriteCourseDelegate
 import com.itcourses.feature.favorites.presentation.model.CourseUiModel
@@ -43,10 +42,7 @@ class FavoritesFragment : BaseFragment<FragmentFavoritesBinding>(FragmentFavorit
     }
 
     private fun navigateToCourse(course: CourseUiModel) {
-        findNavController().navigate(
-            R.id.courseFragment,
-            bundleOf("courseId" to course.id.toString()),
-        )
+        findNavController().navigate(Uri.parse("courses://course/${course.id}"))
     }
 }
 

@@ -1,9 +1,16 @@
 R_DEF: Internal format may change without notice
 local
+id bookmark
 id description
-id like
+id details
+id details_arrow
+id details_container
+id image
 id price
+id rate
+id rating_chip
 id recycler
+id start_date
 id title
 layout fragment_favorites
-layout item_course
+layout item_favorite_course

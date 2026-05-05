@@ -23,6 +23,8 @@
         android:id="@+id/courseFragment"
         android:name="com.itcourses.feature.course.presentation.CourseFragment"
         android:label="@string/course_title">
+        <deepLink
+            app:uri="courses://course/{courseId}" />
         <argument
             android:name="courseId"
             app:argType="string" />
