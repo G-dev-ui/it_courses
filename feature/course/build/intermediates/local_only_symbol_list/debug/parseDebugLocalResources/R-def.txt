@@ -2,7 +2,17 @@ R_DEF: Internal format may change without notice
 local
 id about
 id about_title
+id author_avatar
+id author_block
+id author_name
+id back
+id favorite
+id image
 id open_platform
+id rate
+id rating_chip
+id scroll
 id start
+id start_date
 id title
 layout fragment_course

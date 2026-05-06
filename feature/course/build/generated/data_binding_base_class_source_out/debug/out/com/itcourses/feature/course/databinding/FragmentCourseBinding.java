@@ -4,13 +4,17 @@ package com.itcourses.feature.course.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
+import android.widget.ImageButton;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.core.widget.NestedScrollView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
+import com.google.android.material.button.MaterialButton;
+import com.google.android.material.imageview.ShapeableImageView;
 import com.itcourses.feature.course.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -27,22 +31,66 @@ public final class FragmentCourseBinding implements ViewBinding {
   public final TextView aboutTitle;
 
   @NonNull
-  public final Button openPlatform;
+  public final ShapeableImageView authorAvatar;
 
   @NonNull
-  public final Button start;
+  public final LinearLayout authorBlock;
+
+  @NonNull
+  public final TextView authorName;
+
+  @NonNull
+  public final ImageButton back;
+
+  @NonNull
+  public final ImageButton favorite;
+
+  @NonNull
+  public final ShapeableImageView image;
+
+  @NonNull
+  public final MaterialButton openPlatform;
+
+  @NonNull
+  public final TextView rate;
+
+  @NonNull
+  public final LinearLayout ratingChip;
+
+  @NonNull
+  public final NestedScrollView scroll;
+
+  @NonNull
+  public final MaterialButton start;
+
+  @NonNull
+  public final TextView startDate;
 
   @NonNull
   public final TextView title;
 
   private FragmentCourseBinding(@NonNull ConstraintLayout rootView, @NonNull TextView about,
-      @NonNull TextView aboutTitle, @NonNull Button openPlatform, @NonNull Button start,
-      @NonNull TextView title) {
+      @NonNull TextView aboutTitle, @NonNull ShapeableImageView authorAvatar,
+      @NonNull LinearLayout authorBlock, @NonNull TextView authorName, @NonNull ImageButton back,
+      @NonNull ImageButton favorite, @NonNull ShapeableImageView image,
+      @NonNull MaterialButton openPlatform, @NonNull TextView rate,
+      @NonNull LinearLayout ratingChip, @NonNull NestedScrollView scroll,
+      @NonNull MaterialButton start, @NonNull TextView startDate, @NonNull TextView title) {
     this.rootView = rootView;
     this.about = about;
     this.aboutTitle = aboutTitle;
+    this.authorAvatar = authorAvatar;
+    this.authorBlock = authorBlock;
+    this.authorName = authorName;
+    this.back = back;
+    this.favorite = favorite;
+    this.image = image;
     this.openPlatform = openPlatform;
+    this.rate = rate;
+    this.ratingChip = ratingChip;
+    this.scroll = scroll;
     this.start = start;
+    this.startDate = startDate;
     this.title = title;
   }
 
@@ -85,15 +133,75 @@ public final class FragmentCourseBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.author_avatar;
+      ShapeableImageView authorAvatar = ViewBindings.findChildViewById(rootView, id);
+      if (authorAvatar == null) {
+        break missingId;
+      }
+
+      id = R.id.author_block;
+      LinearLayout authorBlock = ViewBindings.findChildViewById(rootView, id);
+      if (authorBlock == null) {
+        break missingId;
+      }
+
+      id = R.id.author_name;
+      TextView authorName = ViewBindings.findChildViewById(rootView, id);
+      if (authorName == null) {
+        break missingId;
+      }
+
+      id = R.id.back;
+      ImageButton back = ViewBindings.findChildViewById(rootView, id);
+      if (back == null) {
+        break missingId;
+      }
+
+      id = R.id.favorite;
+      ImageButton favorite = ViewBindings.findChildViewById(rootView, id);
+      if (favorite == null) {
+        break missingId;
+      }
+
+      id = R.id.image;
+      ShapeableImageView image = ViewBindings.findChildViewById(rootView, id);
+      if (image == null) {
+        break missingId;
+      }
+
       id = R.id.open_platform;
-      Button openPlatform = ViewBindings.findChildViewById(rootView, id);
+      MaterialButton openPlatform = ViewBindings.findChildViewById(rootView, id);
       if (openPlatform == null) {
         break missingId;
       }
 
+      id = R.id.rate;
+      TextView rate = ViewBindings.findChildViewById(rootView, id);
+      if (rate == null) {
+        break missingId;
+      }
+
+      id = R.id.rating_chip;
+      LinearLayout ratingChip = ViewBindings.findChildViewById(rootView, id);
+      if (ratingChip == null) {
+        break missingId;
+      }
+
+      id = R.id.scroll;
+      NestedScrollView scroll = ViewBindings.findChildViewById(rootView, id);
+      if (scroll == null) {
+        break missingId;
+      }
+
       id = R.id.start;
-      Button start = ViewBindings.findChildViewById(rootView, id);
+      MaterialButton start = ViewBindings.findChildViewById(rootView, id);
       if (start == null) {
+        break missingId;
+      }
+
+      id = R.id.start_date;
+      TextView startDate = ViewBindings.findChildViewById(rootView, id);
+      if (startDate == null) {
         break missingId;
       }
 
@@ -103,8 +211,9 @@ public final class FragmentCourseBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentCourseBinding((ConstraintLayout) rootView, about, aboutTitle, openPlatform,
-          start, title);
+      return new FragmentCourseBinding((ConstraintLayout) rootView, about, aboutTitle, authorAvatar,
+          authorBlock, authorName, back, favorite, image, openPlatform, rate, ratingChip, scroll,
+          start, startDate, title);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="@dimen/course_card_height"
+    android:layout_marginBottom="@dimen/space_16"
+    android:background="@drawable/bg_surface_16">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:id="@+id/image"
+        android:layout_width="0dp"
+        android:layout_height="@dimen/course_card_image_height"
+        android:contentDescription="course image"
+        android:scaleType="centerCrop"
+        app:shapeAppearanceOverlay="@style/ShapeRounded12"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <ImageButton
+        android:id="@+id/bookmark"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:layout_marginTop="@dimen/space_8"
+        android:layout_marginEnd="@dimen/space_8"
+        android:background="@drawable/bg_overlay_circle"
+        android:contentDescription="bookmark"
+        android:src="@drawable/ic_bookmark"
+        app:layout_constraintTop_toTopOf="@id/image"
+        app:layout_constraintEnd_toEndOf="@id/image" />
+
+    <LinearLayout
+        android:id="@+id/rating_chip"
+        android:layout_width="@dimen/chip_rating_width"
+        android:layout_height="@dimen/chip_rating_height"
+        android:layout_marginStart="@dimen/space_8"
+        android:layout_marginBottom="@dimen/space_8"
+        android:background="@drawable/bg_overlay_12"
+        android:gravity="center"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="@id/image"
+        app:layout_constraintBottom_toBottomOf="@id/image">
+
+        <ImageView
+            android:layout_width="12dp"
+            android:layout_height="12dp"
+            android:src="@drawable/ic_star"
+            android:contentDescription="star" />
+
+        <TextView
+            android:id="@+id/rate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:text="4.9"
+            android:textColor="@color/c_white"
+        android:textAppearance="@style/TextAppearance.ItCourses.CourseMeta" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/start_date"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/chip_rating_height"
+        android:layout_marginStart="4dp"
+        android:layout_marginBottom="@dimen/space_8"
+        android:background="@drawable/bg_overlay_12"
+        android:gravity="center"
+        android:paddingHorizontal="10dp"
+        android:text="22 мая 2024"
+        android:textColor="@color/c_white"
+        android:textAppearance="@style/TextAppearance.ItCourses.CourseMeta"
+        app:layout_constraintStart_toEndOf="@id/rating_chip"
+        app:layout_constraintBottom_toBottomOf="@id/image" />
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/space_16"
+        android:layout_marginEnd="@dimen/space_16"
+        android:layout_marginTop="@dimen/space_16"
+        android:text="Java-разработчик с нуля"
+        android:textAppearance="@style/TextAppearance.ItCourses.CourseCardTitle"
+        android:textColor="@color/c_white"
+        app:layout_constraintTop_toBottomOf="@id/image"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/space_16"
+        android:layout_marginEnd="@dimen/space_16"
+        android:layout_marginTop="@dimen/space_12"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:text="Description"
+        android:textAppearance="@style/TextAppearance.ItCourses.CourseCardDescription"
+        android:textColor="@color/c_text_secondary"
+        app:layout_constraintTop_toBottomOf="@id/title"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/space_16"
+        android:layout_marginBottom="@dimen/space_10"
+        android:text="999"
+        android:textAppearance="@style/TextAppearance.ItCourses.CourseCardTitle"
+        android:textColor="@color/c_white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/details_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/space_16"
+        android:layout_marginBottom="@dimen/space_10"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <TextView
+            android:id="@+id/details"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Подробнее"
+            android:textColor="@color/c_accent"
+            android:textAppearance="@style/TextAppearance.ItCourses.CourseCardDetails" />
+
+        <TextView
+            android:id="@+id/details_arrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="6dp"
+            android:text="→"
+            android:textStyle="bold"
+            android:textColor="@color/c_accent"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

@@ -4,6 +4,7 @@ package com.itcourses.feature.profile.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
@@ -22,7 +23,13 @@ public final class FragmentProfileBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView logout;
+  public final ConstraintLayout logout;
+
+  @NonNull
+  public final ImageView logoutArrow;
+
+  @NonNull
+  public final TextView logoutText;
 
   @NonNull
   public final LinearLayout menu;
@@ -34,24 +41,46 @@ public final class FragmentProfileBinding implements ViewBinding {
   public final RecyclerView recycler;
 
   @NonNull
-  public final TextView settings;
+  public final ConstraintLayout settings;
 
   @NonNull
-  public final TextView support;
+  public final ImageView settingsArrow;
+
+  @NonNull
+  public final TextView settingsText;
+
+  @NonNull
+  public final ConstraintLayout support;
+
+  @NonNull
+  public final ImageView supportArrow;
+
+  @NonNull
+  public final TextView supportText;
 
   @NonNull
   public final TextView title;
 
-  private FragmentProfileBinding(@NonNull ConstraintLayout rootView, @NonNull TextView logout,
-      @NonNull LinearLayout menu, @NonNull TextView myCoursesTitle, @NonNull RecyclerView recycler,
-      @NonNull TextView settings, @NonNull TextView support, @NonNull TextView title) {
+  private FragmentProfileBinding(@NonNull ConstraintLayout rootView,
+      @NonNull ConstraintLayout logout, @NonNull ImageView logoutArrow,
+      @NonNull TextView logoutText, @NonNull LinearLayout menu, @NonNull TextView myCoursesTitle,
+      @NonNull RecyclerView recycler, @NonNull ConstraintLayout settings,
+      @NonNull ImageView settingsArrow, @NonNull TextView settingsText,
+      @NonNull ConstraintLayout support, @NonNull ImageView supportArrow,
+      @NonNull TextView supportText, @NonNull TextView title) {
     this.rootView = rootView;
     this.logout = logout;
+    this.logoutArrow = logoutArrow;
+    this.logoutText = logoutText;
     this.menu = menu;
     this.myCoursesTitle = myCoursesTitle;
     this.recycler = recycler;
     this.settings = settings;
+    this.settingsArrow = settingsArrow;
+    this.settingsText = settingsText;
     this.support = support;
+    this.supportArrow = supportArrow;
+    this.supportText = supportText;
     this.title = title;
   }
 
@@ -83,8 +112,20 @@ public final class FragmentProfileBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.logout;
-      TextView logout = ViewBindings.findChildViewById(rootView, id);
+      ConstraintLayout logout = ViewBindings.findChildViewById(rootView, id);
       if (logout == null) {
+        break missingId;
+      }
+
+      id = R.id.logout_arrow;
+      ImageView logoutArrow = ViewBindings.findChildViewById(rootView, id);
+      if (logoutArrow == null) {
+        break missingId;
+      }
+
+      id = R.id.logout_text;
+      TextView logoutText = ViewBindings.findChildViewById(rootView, id);
+      if (logoutText == null) {
         break missingId;
       }
 
@@ -107,14 +148,38 @@ public final class FragmentProfileBinding implements ViewBinding {
       }
 
       id = R.id.settings;
-      TextView settings = ViewBindings.findChildViewById(rootView, id);
+      ConstraintLayout settings = ViewBindings.findChildViewById(rootView, id);
       if (settings == null) {
         break missingId;
       }
 
+      id = R.id.settings_arrow;
+      ImageView settingsArrow = ViewBindings.findChildViewById(rootView, id);
+      if (settingsArrow == null) {
+        break missingId;
+      }
+
+      id = R.id.settings_text;
+      TextView settingsText = ViewBindings.findChildViewById(rootView, id);
+      if (settingsText == null) {
+        break missingId;
+      }
+
       id = R.id.support;
-      TextView support = ViewBindings.findChildViewById(rootView, id);
+      ConstraintLayout support = ViewBindings.findChildViewById(rootView, id);
       if (support == null) {
+        break missingId;
+      }
+
+      id = R.id.support_arrow;
+      ImageView supportArrow = ViewBindings.findChildViewById(rootView, id);
+      if (supportArrow == null) {
+        break missingId;
+      }
+
+      id = R.id.support_text;
+      TextView supportText = ViewBindings.findChildViewById(rootView, id);
+      if (supportText == null) {
         break missingId;
       }
 
@@ -124,8 +189,9 @@ public final class FragmentProfileBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentProfileBinding((ConstraintLayout) rootView, logout, menu, myCoursesTitle,
-          recycler, settings, support, title);
+      return new FragmentProfileBinding((ConstraintLayout) rootView, logout, logoutArrow,
+          logoutText, menu, myCoursesTitle, recycler, settings, settingsArrow, settingsText,
+          support, supportArrow, supportText, title);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

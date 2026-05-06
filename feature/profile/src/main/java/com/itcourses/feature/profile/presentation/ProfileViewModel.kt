@@ -25,10 +25,16 @@ class ProfileViewModel(
                         val my = result.value
                             .take(2)
                             .map { c ->
+                                val percent = ((c.id % 100).toInt().coerceIn(5, 95))
+                                val totalLessons = ((c.id % 40).toInt().coerceIn(12, 36))
+                                val doneLessons = ((totalLessons * percent) / 100).coerceIn(1, totalLessons)
                                 MyCourseUiModel(
                                     id = c.id,
                                     title = c.title,
-                                    progressPercent = ((c.id % 100).toInt().coerceIn(5, 95)),
+                                    progressPercent = percent,
+                                    lessonsDone = doneLessons,
+                                    lessonsTotal = totalLessons,
+                                    isFavorite = c.isFavorite,
                                 )
                             }
                         _state.update { it.copy(isLoading = false, myCourses = my, errorMessage = null) }

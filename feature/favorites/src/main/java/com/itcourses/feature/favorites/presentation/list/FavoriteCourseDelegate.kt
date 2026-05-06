@@ -1,6 +1,7 @@
 package com.itcourses.feature.favorites.presentation.list
 
 import com.hannesdorfmann.adapterdelegates4.dsl.adapterDelegateViewBinding
+import com.itcourses.core.ui.util.applyTopCrop
 import com.itcourses.feature.favorites.databinding.ItemFavoriteCourseBinding
 import com.itcourses.feature.favorites.presentation.model.CourseUiModel
 import java.text.SimpleDateFormat
@@ -23,6 +24,7 @@ fun favoriteCourseDelegate(
         binding.rate.text = item.rate
         binding.startDate.text = item.startDateIso.toUiRuDate()
         binding.image.setImageResource(com.itcourses.core.ui.R.drawable.course_placeholder)
+        binding.image.post { binding.image.applyTopCrop() }
         binding.bookmark.setImageResource(com.itcourses.core.ui.R.drawable.ic_bookmark_filled)
     }
 }
