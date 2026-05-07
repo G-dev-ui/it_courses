@@ -1,0 +1,24 @@
+<resources>
+    <dimen name="space_8">8dp</dimen>
+    <dimen name="space_10">10dp</dimen>
+    <dimen name="space_12">12dp</dimen>
+    <dimen name="space_16">16dp</dimen>
+
+    <dimen name="radius_12">12dp</dimen>
+    <dimen name="radius_16">16dp</dimen>
+    <dimen name="radius_28">28dp</dimen>
+
+    <dimen name="home_search_width">264dp</dimen>
+    <dimen name="home_search_height">56dp</dimen>
+    <dimen name="home_filter_size">56dp</dimen>
+
+    <dimen name="course_card_height">256dp</dimen>
+    <dimen name="course_card_image_height">114dp</dimen>
+
+    <dimen name="chip_rating_width">46dp</dimen>
+    <dimen name="chip_rating_height">22dp</dimen>
+
+    <!-- Extra scroll space so last item isn't hidden by BottomNavigationView -->
+    <dimen name="bottom_nav_overlap_padding">88dp</dimen>
+</resources>
+

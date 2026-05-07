@@ -1,0 +1,79 @@
+<resources>
+
+    <!-- Base styles to satisfy implicit dot-inheritance (AAPT expects these) -->
+    <style name="TextAppearance.ItCourses" parent="TextAppearance.MaterialComponents.Body1" />
+    <style name="TextAppearance.ItCourses.LabelLarge" parent="@style/TextAppearance.ItCourses" />
+    <style name="TextAppearance.ItCourses.LabelMedium" parent="@style/TextAppearance.ItCourses" />
+
+    <!-- Hint / body -->
+    <style name="TextAppearance.ItCourses.BodyMedium" parent="@style/TextAppearance.ItCourses">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textFontWeight">400</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineHeight">18sp</item>
+        <item name="android:letterSpacing">0.0286</item>
+    </style>
+
+    <!-- Label Large (Roboto Medium 500) -->
+    <style name="TextAppearance.ItCourses.LabelLarge.Medium" parent="@style/TextAppearance.ItCourses.LabelLarge">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textFontWeight">500</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineHeight">20sp</item>
+        <item name="android:letterSpacing">0.01</item>
+    </style>
+
+    <!-- Label Medium (SemiBold 600) for bottom nav -->
+    <style name="TextAppearance.ItCourses.LabelMedium.SemiBold" parent="@style/TextAppearance.ItCourses.LabelMedium">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textFontWeight">600</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:lineHeight">16sp</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
+
+    <!-- Course card title / price: 16sp, lineHeight 18sp, letterSpacing 0.15px -->
+    <style name="TextAppearance.ItCourses.CourseCardTitle" parent="@style/TextAppearance.ItCourses">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textFontWeight">500</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:lineHeight">18sp</item>
+        <item name="android:letterSpacing">0.0094</item>
+    </style>
+
+    <style name="TextAppearance.ItCourses.CourseCardDescription" parent="@style/TextAppearance.ItCourses">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textFontWeight">400</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:lineHeight">16sp</item>
+        <item name="android:letterSpacing">0.0333</item>
+    </style>
+
+    <style name="TextAppearance.ItCourses.CourseCardDetails" parent="@style/TextAppearance.ItCourses">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textFontWeight">600</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:lineHeight">15sp</item>
+        <item name="android:letterSpacing">0.0333</item>
+    </style>
+
+    <!-- Rating / date -->
+    <style name="TextAppearance.ItCourses.CourseMeta" parent="@style/TextAppearance.ItCourses">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textFontWeight">400</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:lineHeight">14sp</item>
+        <item name="android:letterSpacing">0.0333</item>
+    </style>
+
+    <!-- Title Large (used in Course screen headers, Favorites title, Profile title, etc.) -->
+    <style name="TextAppearance.ItCourses.TitleLarge" parent="@style/TextAppearance.ItCourses">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textFontWeight">400</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:lineHeight">28sp</item>
+        <item name="android:letterSpacing">0.0</item>
+    </style>
+
+</resources>
+

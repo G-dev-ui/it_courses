@@ -1,0 +1,15 @@
+<resources>
+    <style name="ShapeRounded12">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">@dimen/radius_12</item>
+    </style>
+
+    <style name="ShapeCircle">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <!-- BottomNavigationView text -->
+    <style name="TextAppearance.ItCourses.BottomNav" parent="@style/TextAppearance.ItCourses.LabelMedium.SemiBold" />
+</resources>
+

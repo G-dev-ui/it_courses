@@ -1,0 +1,13 @@
+<resources>
+    <color name="c_bg">#151515</color>
+    <color name="c_surface">#24252A</color>
+    <color name="c_accent">#12B956</color>
+    <color name="c_white">#FFFFFF</color>
+    <color name="c_text_secondary">#F2F2F3</color>
+    <color name="c_divider">#4D555E</color>
+    <color name="c_progress_track">#32333A</color>
+
+    <!-- #32333A with 30% alpha -->
+    <color name="c_overlay_30">#4D32333A</color>
+</resources>
+
