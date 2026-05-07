@@ -38,8 +38,6 @@
         android:background="@drawable/bg_circle_white"
         android:contentDescription="favorite"
         android:src="@drawable/ic_bookmark_outline_black"
-        android:clickable="false"
-        android:focusable="false"
         android:tint="@null"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -159,7 +157,7 @@
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/start"
                 android:layout_width="match_parent"
-                android:layout_height="40dp"
+                android:layout_height="55dp"
                 android:layout_marginTop="16dp"
                 android:paddingTop="0dp"
                 android:paddingBottom="0dp"
@@ -176,7 +174,7 @@
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/open_platform"
                 android:layout_width="match_parent"
-                android:layout_height="40dp"
+                android:layout_height="55dp"
                 android:layout_marginTop="8dp"
                 android:paddingTop="0dp"
                 android:paddingBottom="0dp"

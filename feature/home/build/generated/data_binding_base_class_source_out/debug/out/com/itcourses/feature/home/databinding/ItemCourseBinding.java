@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageButton;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
@@ -32,7 +33,7 @@ public final class ItemCourseBinding implements ViewBinding {
   public final TextView details;
 
   @NonNull
-  public final TextView detailsArrow;
+  public final ImageView detailsArrow;
 
   @NonNull
   public final LinearLayout detailsContainer;
@@ -56,7 +57,7 @@ public final class ItemCourseBinding implements ViewBinding {
   public final TextView title;
 
   private ItemCourseBinding(@NonNull ConstraintLayout rootView, @NonNull ImageButton bookmark,
-      @NonNull TextView description, @NonNull TextView details, @NonNull TextView detailsArrow,
+      @NonNull TextView description, @NonNull TextView details, @NonNull ImageView detailsArrow,
       @NonNull LinearLayout detailsContainer, @NonNull ShapeableImageView image,
       @NonNull TextView price, @NonNull TextView rate, @NonNull LinearLayout ratingChip,
       @NonNull TextView startDate, @NonNull TextView title) {
@@ -120,7 +121,7 @@ public final class ItemCourseBinding implements ViewBinding {
       }
 
       id = R.id.details_arrow;
-      TextView detailsArrow = ViewBindings.findChildViewById(rootView, id);
+      ImageView detailsArrow = ViewBindings.findChildViewById(rootView, id);
       if (detailsArrow == null) {
         break missingId;
       }

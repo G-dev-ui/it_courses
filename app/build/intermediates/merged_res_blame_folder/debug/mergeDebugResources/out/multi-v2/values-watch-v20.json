@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.itcourses.app-mergeDebugResources-50:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.itcourses.app-mergeDebugResources-51:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\korol\\.gradle\\caches\\8.10\\transforms\\ba8f781badbe8c24b478570679cf0355\\transformed\\appcompat-1.7.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "C:\\Users\\korol\\.gradle\\caches\\8.10\\transforms\\b4fe922799ea9a5f0653ff89a022bce2\\transformed\\appcompat-1.7.0\\res\\values-watch-v20\\values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

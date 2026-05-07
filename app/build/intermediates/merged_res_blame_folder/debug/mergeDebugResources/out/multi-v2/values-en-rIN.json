@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.itcourses.app-mergeDebugResources-50:/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "com.itcourses.app-mergeDebugResources-51:/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\korol\\.gradle\\caches\\8.10\\transforms\\ba8f781badbe8c24b478570679cf0355\\transformed\\appcompat-1.7.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\korol\\.gradle\\caches\\8.10\\transforms\\b4fe922799ea9a5f0653ff89a022bce2\\transformed\\appcompat-1.7.0\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\korol\\.gradle\\caches\\8.10\\transforms\\001d91d43a4e5114b9ab273d20001949\\transformed\\navigation-ui-2.8.5\\res\\values-en-rIN\\values-en-rIN.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,161",
-                        "endColumns": "105,116",
-                        "endOffsets": "156,273"
-                    },
-                    "to": {
-                        "startLines": "36,37",
-                        "startColumns": "4,4",
-                        "startOffsets": "3481,3587",
-                        "endColumns": "105,116",
-                        "endOffsets": "3582,3699"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\korol\\.gradle\\caches\\8.10\\transforms\\c616d0f7bbf0a506ea70f89211d05014\\transformed\\core-1.13.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\korol\\.gradle\\caches\\8.10\\transforms\\57d3d757852e840f80e92845a8f71392\\transformed\\core-1.13.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -52,6 +35,23 @@
                         "startOffsets": "2762,2858,2960,3059,3158,3262,3365,3787",
                         "endColumns": "95,101,98,98,103,102,115,100",
                         "endOffsets": "2853,2955,3054,3153,3257,3360,3476,3883"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\korol\\.gradle\\caches\\8.10\\transforms\\f5cb628da6b6c2d980395f22a350f7ae\\transformed\\navigation-ui-2.8.5\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,161",
+                        "endColumns": "105,116",
+                        "endOffsets": "156,273"
+                    },
+                    "to": {
+                        "startLines": "36,37",
+                        "startColumns": "4,4",
+                        "startOffsets": "3481,3587",
+                        "endColumns": "105,116",
+                        "endOffsets": "3582,3699"
                     }
                 }
             ]

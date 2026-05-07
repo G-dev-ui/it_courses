@@ -9,76 +9,78 @@ MERGED from [:feature:favorites] C:\Users\korol\OneDrive\Desktop\it courses\feat
 MERGED from [:feature:profile] C:\Users\korol\OneDrive\Desktop\it courses\feature\profile\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
 MERGED from [:feature:course] C:\Users\korol\OneDrive\Desktop\it courses\feature\course\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
 MERGED from [:core:ui] C:\Users\korol\OneDrive\Desktop\it courses\core\ui\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
-MERGED from [com.hannesdorfmann:adapterdelegates4-kotlin-dsl-viewbinding:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\a558170cac2f7eb8488e28c56f567bcf\transformed\adapterdelegates4-kotlin-dsl-viewbinding-4.3.2\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\korol\.gradle\caches\8.10\transforms\010892ee257b684467aef51159a2827b\transformed\viewbinding-8.5.2\AndroidManifest.xml:2:1-7:12
+MERGED from [com.hannesdorfmann:adapterdelegates4-kotlin-dsl-viewbinding:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\abfbddc3af70832ad7bfc7eaf9177b6e\transformed\adapterdelegates4-kotlin-dsl-viewbinding-4.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\korol\.gradle\caches\8.10\transforms\2ec16bf052c3e2f206757887525c7b26\transformed\viewbinding-8.5.2\AndroidManifest.xml:2:1-7:12
 MERGED from [:core:network-mock] C:\Users\korol\OneDrive\Desktop\it courses\core\network-mock\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
 MERGED from [:core:network] C:\Users\korol\OneDrive\Desktop\it courses\core\network\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-common:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\133c514d7a1bf30059794a22b0c767ce\transformed\navigation-common-2.8.5\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-common-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\8d12e4bc362698ad4582d886b3f8bb2a\transformed\navigation-common-ktx-2.8.5\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-runtime:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\d21659a9c4a54dd73f4e96300bdc8279\transformed\navigation-runtime-2.8.5\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\854f786fd9fd43ec18bcf2a325f819e3\transformed\navigation-runtime-ktx-2.8.5\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-fragment:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\552d3a68605787142a801dcd93d99938\transformed\navigation-fragment-2.8.5\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\8b637bc68d2bef441afcfc3b8dee23e5\transformed\navigation-fragment-ktx-2.8.5\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-ui-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\82ad181fea243e2f4094cfab1d99fd41\transformed\navigation-ui-ktx-2.8.5\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-ui:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\001d91d43a4e5114b9ab273d20001949\transformed\navigation-ui-2.8.5\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.material:material:1.12.0] C:\Users\korol\.gradle\caches\8.10\transforms\40cac7222c7f12283dfe9e3b6ddd3d41\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\c7880991ce48fc1aea5a5338f2820479\transformed\constraintlayout-2.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [io.insert-koin:koin-android:4.0.2] C:\Users\korol\.gradle\caches\8.10\transforms\f71fc81df11d1f590d5368f1b78bca48\transformed\koin-android-4.0.2\AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\korol\.gradle\caches\8.10\transforms\995ca44f6e2a9a3aab86bad91dd880fb\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\korol\.gradle\caches\8.10\transforms\ba8f781badbe8c24b478570679cf0355\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
-MERGED from [com.hannesdorfmann:adapterdelegates4-kotlin-dsl:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\eafb217731a8f4eabe236141818a8ae7\transformed\adapterdelegates4-kotlin-dsl-4.3.2\AndroidManifest.xml:2:1-9:12
-MERGED from [com.hannesdorfmann:adapterdelegates4:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\6874cd743d6fddf16a13dd25a913c0d1\transformed\adapterdelegates4-4.3.2\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\4c5ac5f5df0b64edec9b80b1a50755c3\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\korol\.gradle\caches\8.10\transforms\0407c96d1b6d852b83f617e8e52bfabc\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\0d4fc1c583a76d123240cdb96b0a030e\transformed\fragment-1.8.5\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.fragment:fragment-ktx:1.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\f3b8eae6b14ae6fde0b23ccec0d18fe5\transformed\fragment-ktx-1.8.5\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity:1.9.3] C:\Users\korol\.gradle\caches\8.10\transforms\33acca08b234f69821eedbb38f536072\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\korol\.gradle\caches\8.10\transforms\3d7a4da606de09a1339b88daf42fa0de\transformed\activity-ktx-1.9.3\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\c84f22189d45f0c13698a031362f8364\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\1635cbeb873737610b1d1154bb43f6ab\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\f3461c6826dca31603d75903a775f977\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\f8ac5fb024ef3420da37dc53bfad8f53\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\a561c4ceeadb8182ffcf0bf7b58166ee\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.5.0] C:\Users\korol\.gradle\caches\8.10\transforms\d58fd04a6108dfd56172cecc6463bc66\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\7d78a8a36e955438615d32b01790070a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\f1a605e69d11d7ec0f6cf39dd057b3f9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\e5a5a817172f55033f601a64f5e61ead\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\ed46a393ab9bc99448441f5c755e953d\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\8ef0961e03c0741771419e418039164d\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\7c93b51ab7b66b432d68837a5e982331\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\2caedb823880e07e661846013563ddfd\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\2eb5542b411dfacc192aa0ee59860a4a\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\c616d0f7bbf0a506ea70f89211d05014\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\e5eecc18aa005e6287a0ab9f6a807673\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\korol\.gradle\caches\8.10\transforms\e3039cdc62fc01d2df89d5fc765607bb\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\korol\.gradle\caches\8.10\transforms\6f6384a5f226e0d6b14885315f9d8dbb\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\bff6ba009c2de60e40c9209871de88cf\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\25fe628e740188056a91b740bfe96b3b\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\ca2369fa44de005f1d3248cc9374f37a\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:2:1-5:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\9870285a05e6ffee48ac435e103ff693\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\dfa27e1674aba29cebdac8f90c69685e\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\cc2f57b0f7f35b585571e2c786f610e9\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\4616271183ac41d68fc2afc1bb16e50f\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\d49462e29eb65652a467b07bf25a6e17\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\c75332fa46f6dfd6f8a2f0d4ae73fad7\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\d58a4d447b6e199ce43b388f7345e9d9\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
-MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.1] C:\Users\korol\.gradle\caches\8.10\transforms\85fe6a1aae7c28100860b312220af053\transformed\core-bundle-debug\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\6b2bd96d67335cb3b1924ded50bcf249\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\560d54c8e57795c8f91e54e38d046461\transformed\datastore-core-release\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\e34184771fc3e9c90002d5a50b0bdd62\transformed\datastore-release\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\c4ad3fa601d372002f23232794cc3652\transformed\datastore-preferences-release\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\korol\.gradle\caches\8.10\transforms\f38487d52644a6ad203a3af74fa73973\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\61c17f73ba10116a5e6d3912bb206aee\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\1bb95217f5328ac54b0fe4d0c128144b\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\94886d4520df9979708d9b9f55c9e2db\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\1f72c03812f7468b49d6a8ea5bb40fb3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\918463324cb1a470401d7cfbbe3b6870\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\f95a3bee7494ba59fdc146affd408e65\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\a887e05a229b573625882303dbc05841\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\97d2eaff6bb67722c3d0a0a52a46cab6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\e2693a5d1cd23435170a87d7d40395d4\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\a1c1c2c25c4cb821b155ef6c0129947a\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:core:database] C:\Users\korol\OneDrive\Desktop\it courses\core\database\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-common:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\1ff8fa5d7ce1110eba78766fca60cf97\transformed\navigation-common-2.8.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\0b3f3d395f45c3914ce2c8088eb52b2c\transformed\navigation-common-ktx-2.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\59bd0be120f5137d336c975d66a23548\transformed\navigation-runtime-2.8.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\0c614a3909519fd6d71fe119ea3cff2b\transformed\navigation-runtime-ktx-2.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-fragment:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\805f46efc816c1de8f07b1f7e98d76a0\transformed\navigation-fragment-2.8.5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\e99ab39dd811f3e6fec067b8885667cf\transformed\navigation-fragment-ktx-2.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\edbb71d1d5bb728192090666040d4cd7\transformed\navigation-ui-ktx-2.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-ui:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\f5cb628da6b6c2d980395f22a350f7ae\transformed\navigation-ui-2.8.5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\korol\.gradle\caches\8.10\transforms\ade059a9b4e16aac618d2d62a1800a9f\transformed\material-1.12.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\d9e36fb3758443904e9c4851bdb16ea6\transformed\constraintlayout-2.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [io.insert-koin:koin-android:4.0.2] C:\Users\korol\.gradle\caches\8.10\transforms\f3a305ed9f086f6895da7b012976ce54\transformed\koin-android-4.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\korol\.gradle\caches\8.10\transforms\02c479966d42ecbab1cacbef4a057d16\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\korol\.gradle\caches\8.10\transforms\b4fe922799ea9a5f0653ff89a022bce2\transformed\appcompat-1.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.hannesdorfmann:adapterdelegates4-kotlin-dsl:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\d463c4d6d31125fef306374a0b23ef76\transformed\adapterdelegates4-kotlin-dsl-4.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.hannesdorfmann:adapterdelegates4:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\ec421d8f3113e021616d56721357acda\transformed\adapterdelegates4-4.3.2\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\189628e1ad9493a8a460a28372c1beea\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\korol\.gradle\caches\8.10\transforms\bc64ef7f14b06987b191748dd15f1363\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\6fab3aa67c074882d73d9e0d64673d3a\transformed\fragment-1.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\5e6b70df42921fdde4e11444ed635d07\transformed\fragment-ktx-1.8.5\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\korol\.gradle\caches\8.10\transforms\764f02006bcb8d207845059d737c6412\transformed\activity-1.9.3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\korol\.gradle\caches\8.10\transforms\820c1051ebfeb044ac5428d238ef86f7\transformed\activity-ktx-1.9.3\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\75ef29a6621af4e0ba2845de1edca85c\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\bdcbde143b43bf4aa944f1cd8f97ffb3\transformed\emoji2-1.3.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\85b26fd0d0395174c45b58fa99e18f4e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\6cc592ae436f49a444f9db91f4952979\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\57948ba22e4fc45e9f008db8e49ea189\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\korol\.gradle\caches\8.10\transforms\26334a129c0f35981fcc88c3c2469e4c\transformed\transition-1.5.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\342d8bfbbe923e7b76cf4613889f89f1\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\0f1e2a81a24a15c8910651591122b7cb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\ae560b21643d3ebf27b76038c56a88b1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\065a4bf5b09ce2d5f11a86674448d4bf\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\a81dee5344449e3944e3f3a38437ce43\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\6a407f0db04cad2a799d044ad5cb4c11\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\03739e5077478a4e2f0c3c3dbc9d0b09\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\50699ae58772070bb5442229507c0d8a\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\57d3d757852e840f80e92845a8f71392\transformed\core-1.13.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\7cb08cfe1444624835d089b53f280d6b\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\korol\.gradle\caches\8.10\transforms\61fd30dc03f7798ccb16deba16cbfeba\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\korol\.gradle\caches\8.10\transforms\848e10022211275dc08c65a56ab0da3d\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\ff72962c5ad78e080163cb24cec4726c\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\872f99ee09d96cd9409497af06340386\transformed\lifecycle-runtime-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\0f9ac03dcd69abe2151fed6d6101115a\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:2:1-5:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\cb1116a24f59ee77d7752b24cd5547ad\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\69cb23cbbb4f78df59da35ea99f6e868\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\b9bfefd1ff529055fe577f3eb42e91da\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\d6d4094a2d1fc3a37b11489cbf02eccf\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\d6e4edca4905ab847d50a3567cba9c41\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\acfeb6ceb1c55af26430aae497e94ffb\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\fdeb5380d44e6ce2f43dce90314528e2\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.1] C:\Users\korol\.gradle\caches\8.10\transforms\d71b59a06ca3aaca38c9b28eece9081c\transformed\core-bundle-debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\daa7bd444d71a5262f78f3c3814ed44e\transformed\core-ktx-1.13.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\korol\.gradle\caches\8.10\transforms\4997b34c0002ae5e5e0d7884a139c1ad\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\korol\.gradle\caches\8.10\transforms\a9a8bb74a88ac3ea69ef0ea1e9be9d35\transformed\room-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\848e224f2aa08c9fe1f4b883e4808df9\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\6ad0b81e989c234e5ee7461117c10cc0\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\korol\.gradle\caches\8.10\transforms\a7da0be815be240e932d5b9d607310ac\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\0ba4d3b45b3521c05888bb242ea8e370\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\1c2eea37d5d2e260472f5b28c641726a\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\a870c9cefa6d29a6b3ea801a93f97500\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\a7ae3ac33e739b9c60c0ba852e2111d2\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\53a83860bb12259f3a2cb3288ccbdb27\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\0ec23308de0e1e9806e14e4396cb418d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\b12a7691a28dc6b93c60294fde95517d\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\f62d4b7f228dd41b06127646d575b9f6\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\558d92c2087cec9d4240071385ff712b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\ab6b754392deee09db86325e4f00392c\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
 	package
 		INJECTED from C:\Users\korol\OneDrive\Desktop\it courses\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -94,32 +96,34 @@ ADDED from C:\Users\korol\OneDrive\Desktop\it courses\app\src\main\AndroidManife
 application
 ADDED from C:\Users\korol\OneDrive\Desktop\it courses\app\src\main\AndroidManifest.xml:5:5-21:19
 INJECTED from C:\Users\korol\OneDrive\Desktop\it courses\app\src\main\AndroidManifest.xml:5:5-21:19
-MERGED from [com.google.android.material:material:1.12.0] C:\Users\korol\.gradle\caches\8.10\transforms\40cac7222c7f12283dfe9e3b6ddd3d41\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.12.0] C:\Users\korol\.gradle\caches\8.10\transforms\40cac7222c7f12283dfe9e3b6ddd3d41\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\c7880991ce48fc1aea5a5338f2820479\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\c7880991ce48fc1aea5a5338f2820479\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
-MERGED from [io.insert-koin:koin-android:4.0.2] C:\Users\korol\.gradle\caches\8.10\transforms\f71fc81df11d1f590d5368f1b78bca48\transformed\koin-android-4.0.2\AndroidManifest.xml:7:5-20
-MERGED from [io.insert-koin:koin-android:4.0.2] C:\Users\korol\.gradle\caches\8.10\transforms\f71fc81df11d1f590d5368f1b78bca48\transformed\koin-android-4.0.2\AndroidManifest.xml:7:5-20
-MERGED from [com.hannesdorfmann:adapterdelegates4:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\6874cd743d6fddf16a13dd25a913c0d1\transformed\adapterdelegates4-4.3.2\AndroidManifest.xml:9:5-20
-MERGED from [com.hannesdorfmann:adapterdelegates4:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\6874cd743d6fddf16a13dd25a913c0d1\transformed\adapterdelegates4-4.3.2\AndroidManifest.xml:9:5-20
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\1635cbeb873737610b1d1154bb43f6ab\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\1635cbeb873737610b1d1154bb43f6ab\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\2eb5542b411dfacc192aa0ee59860a4a\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\2eb5542b411dfacc192aa0ee59860a4a\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\c616d0f7bbf0a506ea70f89211d05014\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\c616d0f7bbf0a506ea70f89211d05014\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\cc2f57b0f7f35b585571e2c786f610e9\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\cc2f57b0f7f35b585571e2c786f610e9\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\1f72c03812f7468b49d6a8ea5bb40fb3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\1f72c03812f7468b49d6a8ea5bb40fb3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\918463324cb1a470401d7cfbbe3b6870\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\918463324cb1a470401d7cfbbe3b6870\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\korol\.gradle\caches\8.10\transforms\ade059a9b4e16aac618d2d62a1800a9f\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\korol\.gradle\caches\8.10\transforms\ade059a9b4e16aac618d2d62a1800a9f\transformed\material-1.12.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\d9e36fb3758443904e9c4851bdb16ea6\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\d9e36fb3758443904e9c4851bdb16ea6\transformed\constraintlayout-2.2.0\AndroidManifest.xml:7:5-20
+MERGED from [io.insert-koin:koin-android:4.0.2] C:\Users\korol\.gradle\caches\8.10\transforms\f3a305ed9f086f6895da7b012976ce54\transformed\koin-android-4.0.2\AndroidManifest.xml:7:5-20
+MERGED from [io.insert-koin:koin-android:4.0.2] C:\Users\korol\.gradle\caches\8.10\transforms\f3a305ed9f086f6895da7b012976ce54\transformed\koin-android-4.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.hannesdorfmann:adapterdelegates4:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\ec421d8f3113e021616d56721357acda\transformed\adapterdelegates4-4.3.2\AndroidManifest.xml:9:5-20
+MERGED from [com.hannesdorfmann:adapterdelegates4:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\ec421d8f3113e021616d56721357acda\transformed\adapterdelegates4-4.3.2\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\bdcbde143b43bf4aa944f1cd8f97ffb3\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\bdcbde143b43bf4aa944f1cd8f97ffb3\transformed\emoji2-1.3.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\50699ae58772070bb5442229507c0d8a\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\50699ae58772070bb5442229507c0d8a\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\57d3d757852e840f80e92845a8f71392\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\57d3d757852e840f80e92845a8f71392\transformed\core-1.13.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\b9bfefd1ff529055fe577f3eb42e91da\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\b9bfefd1ff529055fe577f3eb42e91da\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\korol\.gradle\caches\8.10\transforms\4997b34c0002ae5e5e0d7884a139c1ad\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\korol\.gradle\caches\8.10\transforms\4997b34c0002ae5e5e0d7884a139c1ad\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\53a83860bb12259f3a2cb3288ccbdb27\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\53a83860bb12259f3a2cb3288ccbdb27\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\0ec23308de0e1e9806e14e4396cb418d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\0ec23308de0e1e9806e14e4396cb418d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
 	android:extractNativeLibs
 		INJECTED from C:\Users\korol\OneDrive\Desktop\it courses\app\src\main\AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\c616d0f7bbf0a506ea70f89211d05014\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\57d3d757852e840f80e92845a8f71392\transformed\core-1.13.1\AndroidManifest.xml:28:18-86
 	android:supportsRtl
 		ADDED from C:\Users\korol\OneDrive\Desktop\it courses\app\src\main\AndroidManifest.xml:9:9-35
 	android:label
@@ -160,249 +164,263 @@ MERGED from [:feature:course] C:\Users\korol\OneDrive\Desktop\it courses\feature
 MERGED from [:feature:course] C:\Users\korol\OneDrive\Desktop\it courses\feature\course\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
 MERGED from [:core:ui] C:\Users\korol\OneDrive\Desktop\it courses\core\ui\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
 MERGED from [:core:ui] C:\Users\korol\OneDrive\Desktop\it courses\core\ui\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
-MERGED from [com.hannesdorfmann:adapterdelegates4-kotlin-dsl-viewbinding:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\a558170cac2f7eb8488e28c56f567bcf\transformed\adapterdelegates4-kotlin-dsl-viewbinding-4.3.2\AndroidManifest.xml:5:5-7:41
-MERGED from [com.hannesdorfmann:adapterdelegates4-kotlin-dsl-viewbinding:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\a558170cac2f7eb8488e28c56f567bcf\transformed\adapterdelegates4-kotlin-dsl-viewbinding-4.3.2\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\korol\.gradle\caches\8.10\transforms\010892ee257b684467aef51159a2827b\transformed\viewbinding-8.5.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\korol\.gradle\caches\8.10\transforms\010892ee257b684467aef51159a2827b\transformed\viewbinding-8.5.2\AndroidManifest.xml:5:5-44
+MERGED from [com.hannesdorfmann:adapterdelegates4-kotlin-dsl-viewbinding:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\abfbddc3af70832ad7bfc7eaf9177b6e\transformed\adapterdelegates4-kotlin-dsl-viewbinding-4.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.hannesdorfmann:adapterdelegates4-kotlin-dsl-viewbinding:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\abfbddc3af70832ad7bfc7eaf9177b6e\transformed\adapterdelegates4-kotlin-dsl-viewbinding-4.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\korol\.gradle\caches\8.10\transforms\2ec16bf052c3e2f206757887525c7b26\transformed\viewbinding-8.5.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.5.2] C:\Users\korol\.gradle\caches\8.10\transforms\2ec16bf052c3e2f206757887525c7b26\transformed\viewbinding-8.5.2\AndroidManifest.xml:5:5-44
 MERGED from [:core:network-mock] C:\Users\korol\OneDrive\Desktop\it courses\core\network-mock\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
 MERGED from [:core:network-mock] C:\Users\korol\OneDrive\Desktop\it courses\core\network-mock\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
 MERGED from [:core:network] C:\Users\korol\OneDrive\Desktop\it courses\core\network\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
 MERGED from [:core:network] C:\Users\korol\OneDrive\Desktop\it courses\core\network\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-common:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\133c514d7a1bf30059794a22b0c767ce\transformed\navigation-common-2.8.5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\133c514d7a1bf30059794a22b0c767ce\transformed\navigation-common-2.8.5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\8d12e4bc362698ad4582d886b3f8bb2a\transformed\navigation-common-ktx-2.8.5\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-common-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\8d12e4bc362698ad4582d886b3f8bb2a\transformed\navigation-common-ktx-2.8.5\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-runtime:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\d21659a9c4a54dd73f4e96300bdc8279\transformed\navigation-runtime-2.8.5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\d21659a9c4a54dd73f4e96300bdc8279\transformed\navigation-runtime-2.8.5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\854f786fd9fd43ec18bcf2a325f819e3\transformed\navigation-runtime-ktx-2.8.5\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\854f786fd9fd43ec18bcf2a325f819e3\transformed\navigation-runtime-ktx-2.8.5\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-fragment:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\552d3a68605787142a801dcd93d99938\transformed\navigation-fragment-2.8.5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-fragment:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\552d3a68605787142a801dcd93d99938\transformed\navigation-fragment-2.8.5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\8b637bc68d2bef441afcfc3b8dee23e5\transformed\navigation-fragment-ktx-2.8.5\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\8b637bc68d2bef441afcfc3b8dee23e5\transformed\navigation-fragment-ktx-2.8.5\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-ui-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\82ad181fea243e2f4094cfab1d99fd41\transformed\navigation-ui-ktx-2.8.5\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-ui-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\82ad181fea243e2f4094cfab1d99fd41\transformed\navigation-ui-ktx-2.8.5\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-ui:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\001d91d43a4e5114b9ab273d20001949\transformed\navigation-ui-2.8.5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-ui:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\001d91d43a4e5114b9ab273d20001949\transformed\navigation-ui-2.8.5\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.12.0] C:\Users\korol\.gradle\caches\8.10\transforms\40cac7222c7f12283dfe9e3b6ddd3d41\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.12.0] C:\Users\korol\.gradle\caches\8.10\transforms\40cac7222c7f12283dfe9e3b6ddd3d41\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\c7880991ce48fc1aea5a5338f2820479\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\c7880991ce48fc1aea5a5338f2820479\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
-MERGED from [io.insert-koin:koin-android:4.0.2] C:\Users\korol\.gradle\caches\8.10\transforms\f71fc81df11d1f590d5368f1b78bca48\transformed\koin-android-4.0.2\AndroidManifest.xml:5:5-44
-MERGED from [io.insert-koin:koin-android:4.0.2] C:\Users\korol\.gradle\caches\8.10\transforms\f71fc81df11d1f590d5368f1b78bca48\transformed\koin-android-4.0.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\korol\.gradle\caches\8.10\transforms\995ca44f6e2a9a3aab86bad91dd880fb\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\korol\.gradle\caches\8.10\transforms\995ca44f6e2a9a3aab86bad91dd880fb\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\korol\.gradle\caches\8.10\transforms\ba8f781badbe8c24b478570679cf0355\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\korol\.gradle\caches\8.10\transforms\ba8f781badbe8c24b478570679cf0355\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
-MERGED from [com.hannesdorfmann:adapterdelegates4-kotlin-dsl:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\eafb217731a8f4eabe236141818a8ae7\transformed\adapterdelegates4-kotlin-dsl-4.3.2\AndroidManifest.xml:5:5-7:41
-MERGED from [com.hannesdorfmann:adapterdelegates4-kotlin-dsl:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\eafb217731a8f4eabe236141818a8ae7\transformed\adapterdelegates4-kotlin-dsl-4.3.2\AndroidManifest.xml:5:5-7:41
-MERGED from [com.hannesdorfmann:adapterdelegates4:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\6874cd743d6fddf16a13dd25a913c0d1\transformed\adapterdelegates4-4.3.2\AndroidManifest.xml:5:5-7:41
-MERGED from [com.hannesdorfmann:adapterdelegates4:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\6874cd743d6fddf16a13dd25a913c0d1\transformed\adapterdelegates4-4.3.2\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\4c5ac5f5df0b64edec9b80b1a50755c3\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\4c5ac5f5df0b64edec9b80b1a50755c3\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\korol\.gradle\caches\8.10\transforms\0407c96d1b6d852b83f617e8e52bfabc\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\korol\.gradle\caches\8.10\transforms\0407c96d1b6d852b83f617e8e52bfabc\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
-MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\0d4fc1c583a76d123240cdb96b0a030e\transformed\fragment-1.8.5\AndroidManifest.xml:5:5-44
-MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\0d4fc1c583a76d123240cdb96b0a030e\transformed\fragment-1.8.5\AndroidManifest.xml:5:5-44
-MERGED from [androidx.fragment:fragment-ktx:1.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\f3b8eae6b14ae6fde0b23ccec0d18fe5\transformed\fragment-ktx-1.8.5\AndroidManifest.xml:5:5-44
-MERGED from [androidx.fragment:fragment-ktx:1.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\f3b8eae6b14ae6fde0b23ccec0d18fe5\transformed\fragment-ktx-1.8.5\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity:1.9.3] C:\Users\korol\.gradle\caches\8.10\transforms\33acca08b234f69821eedbb38f536072\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.9.3] C:\Users\korol\.gradle\caches\8.10\transforms\33acca08b234f69821eedbb38f536072\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\korol\.gradle\caches\8.10\transforms\3d7a4da606de09a1339b88daf42fa0de\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\korol\.gradle\caches\8.10\transforms\3d7a4da606de09a1339b88daf42fa0de\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\c84f22189d45f0c13698a031362f8364\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\c84f22189d45f0c13698a031362f8364\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\1635cbeb873737610b1d1154bb43f6ab\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\1635cbeb873737610b1d1154bb43f6ab\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\f3461c6826dca31603d75903a775f977\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\f3461c6826dca31603d75903a775f977\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\f8ac5fb024ef3420da37dc53bfad8f53\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\f8ac5fb024ef3420da37dc53bfad8f53\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\a561c4ceeadb8182ffcf0bf7b58166ee\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\a561c4ceeadb8182ffcf0bf7b58166ee\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.5.0] C:\Users\korol\.gradle\caches\8.10\transforms\d58fd04a6108dfd56172cecc6463bc66\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.transition:transition:1.5.0] C:\Users\korol\.gradle\caches\8.10\transforms\d58fd04a6108dfd56172cecc6463bc66\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\7d78a8a36e955438615d32b01790070a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\7d78a8a36e955438615d32b01790070a\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\f1a605e69d11d7ec0f6cf39dd057b3f9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\f1a605e69d11d7ec0f6cf39dd057b3f9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\e5a5a817172f55033f601a64f5e61ead\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\e5a5a817172f55033f601a64f5e61ead\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\ed46a393ab9bc99448441f5c755e953d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\ed46a393ab9bc99448441f5c755e953d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\8ef0961e03c0741771419e418039164d\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\8ef0961e03c0741771419e418039164d\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\7c93b51ab7b66b432d68837a5e982331\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\7c93b51ab7b66b432d68837a5e982331\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\2caedb823880e07e661846013563ddfd\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\2caedb823880e07e661846013563ddfd\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\2eb5542b411dfacc192aa0ee59860a4a\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\2eb5542b411dfacc192aa0ee59860a4a\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\c616d0f7bbf0a506ea70f89211d05014\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\c616d0f7bbf0a506ea70f89211d05014\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\e5eecc18aa005e6287a0ab9f6a807673\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\e5eecc18aa005e6287a0ab9f6a807673\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\korol\.gradle\caches\8.10\transforms\e3039cdc62fc01d2df89d5fc765607bb\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\korol\.gradle\caches\8.10\transforms\e3039cdc62fc01d2df89d5fc765607bb\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\korol\.gradle\caches\8.10\transforms\6f6384a5f226e0d6b14885315f9d8dbb\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\korol\.gradle\caches\8.10\transforms\6f6384a5f226e0d6b14885315f9d8dbb\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\bff6ba009c2de60e40c9209871de88cf\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\bff6ba009c2de60e40c9209871de88cf\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\25fe628e740188056a91b740bfe96b3b\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\25fe628e740188056a91b740bfe96b3b\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\ca2369fa44de005f1d3248cc9374f37a\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\ca2369fa44de005f1d3248cc9374f37a\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\9870285a05e6ffee48ac435e103ff693\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\9870285a05e6ffee48ac435e103ff693\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\dfa27e1674aba29cebdac8f90c69685e\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\dfa27e1674aba29cebdac8f90c69685e\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\cc2f57b0f7f35b585571e2c786f610e9\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\cc2f57b0f7f35b585571e2c786f610e9\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\4616271183ac41d68fc2afc1bb16e50f\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\4616271183ac41d68fc2afc1bb16e50f\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\d49462e29eb65652a467b07bf25a6e17\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\d49462e29eb65652a467b07bf25a6e17\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\c75332fa46f6dfd6f8a2f0d4ae73fad7\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\c75332fa46f6dfd6f8a2f0d4ae73fad7\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\d58a4d447b6e199ce43b388f7345e9d9\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\d58a4d447b6e199ce43b388f7345e9d9\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
-MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.1] C:\Users\korol\.gradle\caches\8.10\transforms\85fe6a1aae7c28100860b312220af053\transformed\core-bundle-debug\AndroidManifest.xml:5:5-44
-MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.1] C:\Users\korol\.gradle\caches\8.10\transforms\85fe6a1aae7c28100860b312220af053\transformed\core-bundle-debug\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\6b2bd96d67335cb3b1924ded50bcf249\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\6b2bd96d67335cb3b1924ded50bcf249\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\560d54c8e57795c8f91e54e38d046461\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.datastore:datastore-core-android:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\560d54c8e57795c8f91e54e38d046461\transformed\datastore-core-release\AndroidManifest.xml:5:5-44
-MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\e34184771fc3e9c90002d5a50b0bdd62\transformed\datastore-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.datastore:datastore-android:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\e34184771fc3e9c90002d5a50b0bdd62\transformed\datastore-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\c4ad3fa601d372002f23232794cc3652\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.datastore:datastore-preferences-android:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\c4ad3fa601d372002f23232794cc3652\transformed\datastore-preferences-release\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\korol\.gradle\caches\8.10\transforms\f38487d52644a6ad203a3af74fa73973\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\korol\.gradle\caches\8.10\transforms\f38487d52644a6ad203a3af74fa73973\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\61c17f73ba10116a5e6d3912bb206aee\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\61c17f73ba10116a5e6d3912bb206aee\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\1bb95217f5328ac54b0fe4d0c128144b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\1bb95217f5328ac54b0fe4d0c128144b\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\94886d4520df9979708d9b9f55c9e2db\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\94886d4520df9979708d9b9f55c9e2db\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\1f72c03812f7468b49d6a8ea5bb40fb3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\1f72c03812f7468b49d6a8ea5bb40fb3\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\918463324cb1a470401d7cfbbe3b6870\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\918463324cb1a470401d7cfbbe3b6870\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\f95a3bee7494ba59fdc146affd408e65\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\f95a3bee7494ba59fdc146affd408e65\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\a887e05a229b573625882303dbc05841\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\a887e05a229b573625882303dbc05841\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\97d2eaff6bb67722c3d0a0a52a46cab6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\97d2eaff6bb67722c3d0a0a52a46cab6\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\e2693a5d1cd23435170a87d7d40395d4\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\e2693a5d1cd23435170a87d7d40395d4\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\a1c1c2c25c4cb821b155ef6c0129947a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\a1c1c2c25c4cb821b155ef6c0129947a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [:core:database] C:\Users\korol\OneDrive\Desktop\it courses\core\database\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [:core:database] C:\Users\korol\OneDrive\Desktop\it courses\core\database\build\intermediates\merged_manifest\debug\processDebugManifest\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\1ff8fa5d7ce1110eba78766fca60cf97\transformed\navigation-common-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\1ff8fa5d7ce1110eba78766fca60cf97\transformed\navigation-common-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\0b3f3d395f45c3914ce2c8088eb52b2c\transformed\navigation-common-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\0b3f3d395f45c3914ce2c8088eb52b2c\transformed\navigation-common-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\59bd0be120f5137d336c975d66a23548\transformed\navigation-runtime-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\59bd0be120f5137d336c975d66a23548\transformed\navigation-runtime-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\0c614a3909519fd6d71fe119ea3cff2b\transformed\navigation-runtime-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\0c614a3909519fd6d71fe119ea3cff2b\transformed\navigation-runtime-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\805f46efc816c1de8f07b1f7e98d76a0\transformed\navigation-fragment-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\805f46efc816c1de8f07b1f7e98d76a0\transformed\navigation-fragment-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\e99ab39dd811f3e6fec067b8885667cf\transformed\navigation-fragment-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\e99ab39dd811f3e6fec067b8885667cf\transformed\navigation-fragment-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\edbb71d1d5bb728192090666040d4cd7\transformed\navigation-ui-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\edbb71d1d5bb728192090666040d4cd7\transformed\navigation-ui-ktx-2.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\f5cb628da6b6c2d980395f22a350f7ae\transformed\navigation-ui-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\f5cb628da6b6c2d980395f22a350f7ae\transformed\navigation-ui-2.8.5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\korol\.gradle\caches\8.10\transforms\ade059a9b4e16aac618d2d62a1800a9f\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] C:\Users\korol\.gradle\caches\8.10\transforms\ade059a9b4e16aac618d2d62a1800a9f\transformed\material-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\d9e36fb3758443904e9c4851bdb16ea6\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\d9e36fb3758443904e9c4851bdb16ea6\transformed\constraintlayout-2.2.0\AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-android:4.0.2] C:\Users\korol\.gradle\caches\8.10\transforms\f3a305ed9f086f6895da7b012976ce54\transformed\koin-android-4.0.2\AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-android:4.0.2] C:\Users\korol\.gradle\caches\8.10\transforms\f3a305ed9f086f6895da7b012976ce54\transformed\koin-android-4.0.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\korol\.gradle\caches\8.10\transforms\02c479966d42ecbab1cacbef4a057d16\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] C:\Users\korol\.gradle\caches\8.10\transforms\02c479966d42ecbab1cacbef4a057d16\transformed\appcompat-resources-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\korol\.gradle\caches\8.10\transforms\b4fe922799ea9a5f0653ff89a022bce2\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] C:\Users\korol\.gradle\caches\8.10\transforms\b4fe922799ea9a5f0653ff89a022bce2\transformed\appcompat-1.7.0\AndroidManifest.xml:5:5-44
+MERGED from [com.hannesdorfmann:adapterdelegates4-kotlin-dsl:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\d463c4d6d31125fef306374a0b23ef76\transformed\adapterdelegates4-kotlin-dsl-4.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.hannesdorfmann:adapterdelegates4-kotlin-dsl:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\d463c4d6d31125fef306374a0b23ef76\transformed\adapterdelegates4-kotlin-dsl-4.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.hannesdorfmann:adapterdelegates4:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\ec421d8f3113e021616d56721357acda\transformed\adapterdelegates4-4.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.hannesdorfmann:adapterdelegates4:4.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\ec421d8f3113e021616d56721357acda\transformed\adapterdelegates4-4.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\189628e1ad9493a8a460a28372c1beea\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\korol\.gradle\caches\8.10\transforms\189628e1ad9493a8a460a28372c1beea\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\korol\.gradle\caches\8.10\transforms\bc64ef7f14b06987b191748dd15f1363\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\korol\.gradle\caches\8.10\transforms\bc64ef7f14b06987b191748dd15f1363\transformed\viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\6fab3aa67c074882d73d9e0d64673d3a\transformed\fragment-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\6fab3aa67c074882d73d9e0d64673d3a\transformed\fragment-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\5e6b70df42921fdde4e11444ed635d07\transformed\fragment-ktx-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.8.5] C:\Users\korol\.gradle\caches\8.10\transforms\5e6b70df42921fdde4e11444ed635d07\transformed\fragment-ktx-1.8.5\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\korol\.gradle\caches\8.10\transforms\764f02006bcb8d207845059d737c6412\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.3] C:\Users\korol\.gradle\caches\8.10\transforms\764f02006bcb8d207845059d737c6412\transformed\activity-1.9.3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\korol\.gradle\caches\8.10\transforms\820c1051ebfeb044ac5428d238ef86f7\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.3] C:\Users\korol\.gradle\caches\8.10\transforms\820c1051ebfeb044ac5428d238ef86f7\transformed\activity-ktx-1.9.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\75ef29a6621af4e0ba2845de1edca85c\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\75ef29a6621af4e0ba2845de1edca85c\transformed\emoji2-views-helper-1.3.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\bdcbde143b43bf4aa944f1cd8f97ffb3\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\bdcbde143b43bf4aa944f1cd8f97ffb3\transformed\emoji2-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\85b26fd0d0395174c45b58fa99e18f4e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\85b26fd0d0395174c45b58fa99e18f4e\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\6cc592ae436f49a444f9db91f4952979\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\6cc592ae436f49a444f9db91f4952979\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\57948ba22e4fc45e9f008db8e49ea189\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\57948ba22e4fc45e9f008db8e49ea189\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\korol\.gradle\caches\8.10\transforms\26334a129c0f35981fcc88c3c2469e4c\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] C:\Users\korol\.gradle\caches\8.10\transforms\26334a129c0f35981fcc88c3c2469e4c\transformed\transition-1.5.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\342d8bfbbe923e7b76cf4613889f89f1\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\342d8bfbbe923e7b76cf4613889f89f1\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\0f1e2a81a24a15c8910651591122b7cb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\0f1e2a81a24a15c8910651591122b7cb\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\ae560b21643d3ebf27b76038c56a88b1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\ae560b21643d3ebf27b76038c56a88b1\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\065a4bf5b09ce2d5f11a86674448d4bf\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\065a4bf5b09ce2d5f11a86674448d4bf\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\a81dee5344449e3944e3f3a38437ce43\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\korol\.gradle\caches\8.10\transforms\a81dee5344449e3944e3f3a38437ce43\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\6a407f0db04cad2a799d044ad5cb4c11\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\6a407f0db04cad2a799d044ad5cb4c11\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\03739e5077478a4e2f0c3c3dbc9d0b09\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\03739e5077478a4e2f0c3c3dbc9d0b09\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\50699ae58772070bb5442229507c0d8a\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\50699ae58772070bb5442229507c0d8a\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\57d3d757852e840f80e92845a8f71392\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\57d3d757852e840f80e92845a8f71392\transformed\core-1.13.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\7cb08cfe1444624835d089b53f280d6b\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\7cb08cfe1444624835d089b53f280d6b\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\korol\.gradle\caches\8.10\transforms\61fd30dc03f7798ccb16deba16cbfeba\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\korol\.gradle\caches\8.10\transforms\61fd30dc03f7798ccb16deba16cbfeba\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\korol\.gradle\caches\8.10\transforms\848e10022211275dc08c65a56ab0da3d\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\korol\.gradle\caches\8.10\transforms\848e10022211275dc08c65a56ab0da3d\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\ff72962c5ad78e080163cb24cec4726c\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\ff72962c5ad78e080163cb24cec4726c\transformed\lifecycle-livedata-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\872f99ee09d96cd9409497af06340386\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\872f99ee09d96cd9409497af06340386\transformed\lifecycle-runtime-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\0f9ac03dcd69abe2151fed6d6101115a\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\0f9ac03dcd69abe2151fed6d6101115a\transformed\lifecycle-viewmodel-2.8.7\AndroidManifest.xml:4:5-43
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\cb1116a24f59ee77d7752b24cd5547ad\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\cb1116a24f59ee77d7752b24cd5547ad\transformed\lifecycle-viewmodel-release\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\69cb23cbbb4f78df59da35ea99f6e868\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\69cb23cbbb4f78df59da35ea99f6e868\transformed\lifecycle-livedata-core-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\b9bfefd1ff529055fe577f3eb42e91da\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\b9bfefd1ff529055fe577f3eb42e91da\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\d6d4094a2d1fc3a37b11489cbf02eccf\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\d6d4094a2d1fc3a37b11489cbf02eccf\transformed\lifecycle-runtime-ktx-release\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\d6e4edca4905ab847d50a3567cba9c41\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\d6e4edca4905ab847d50a3567cba9c41\transformed\lifecycle-livedata-core-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\acfeb6ceb1c55af26430aae497e94ffb\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\acfeb6ceb1c55af26430aae497e94ffb\transformed\lifecycle-viewmodel-ktx-2.8.7\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\fdeb5380d44e6ce2f43dce90314528e2\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\fdeb5380d44e6ce2f43dce90314528e2\transformed\lifecycle-viewmodel-savedstate-2.8.7\AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.1] C:\Users\korol\.gradle\caches\8.10\transforms\d71b59a06ca3aaca38c9b28eece9081c\transformed\core-bundle-debug\AndroidManifest.xml:5:5-44
+MERGED from [org.jetbrains.androidx.core:core-bundle-android-debug:1.0.1] C:\Users\korol\.gradle\caches\8.10\transforms\d71b59a06ca3aaca38c9b28eece9081c\transformed\core-bundle-debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\daa7bd444d71a5262f78f3c3814ed44e\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\daa7bd444d71a5262f78f3c3814ed44e\transformed\core-ktx-1.13.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\korol\.gradle\caches\8.10\transforms\4997b34c0002ae5e5e0d7884a139c1ad\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\korol\.gradle\caches\8.10\transforms\4997b34c0002ae5e5e0d7884a139c1ad\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\korol\.gradle\caches\8.10\transforms\a9a8bb74a88ac3ea69ef0ea1e9be9d35\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.6.1] C:\Users\korol\.gradle\caches\8.10\transforms\a9a8bb74a88ac3ea69ef0ea1e9be9d35\transformed\room-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\848e224f2aa08c9fe1f4b883e4808df9\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\848e224f2aa08c9fe1f4b883e4808df9\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\6ad0b81e989c234e5ee7461117c10cc0\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\6ad0b81e989c234e5ee7461117c10cc0\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\korol\.gradle\caches\8.10\transforms\a7da0be815be240e932d5b9d607310ac\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\korol\.gradle\caches\8.10\transforms\a7da0be815be240e932d5b9d607310ac\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\0ba4d3b45b3521c05888bb242ea8e370\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\0ba4d3b45b3521c05888bb242ea8e370\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\1c2eea37d5d2e260472f5b28c641726a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\1c2eea37d5d2e260472f5b28c641726a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\a870c9cefa6d29a6b3ea801a93f97500\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\korol\.gradle\caches\8.10\transforms\a870c9cefa6d29a6b3ea801a93f97500\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\a7ae3ac33e739b9c60c0ba852e2111d2\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\a7ae3ac33e739b9c60c0ba852e2111d2\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\53a83860bb12259f3a2cb3288ccbdb27\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\53a83860bb12259f3a2cb3288ccbdb27\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\0ec23308de0e1e9806e14e4396cb418d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\0ec23308de0e1e9806e14e4396cb418d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\b12a7691a28dc6b93c60294fde95517d\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\b12a7691a28dc6b93c60294fde95517d\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\f62d4b7f228dd41b06127646d575b9f6\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\f62d4b7f228dd41b06127646d575b9f6\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\558d92c2087cec9d4240071385ff712b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\558d92c2087cec9d4240071385ff712b\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\ab6b754392deee09db86325e4f00392c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\ab6b754392deee09db86325e4f00392c\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
 		INJECTED from C:\Users\korol\OneDrive\Desktop\it courses\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from C:\Users\korol\OneDrive\Desktop\it courses\app\src\main\AndroidManifest.xml
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\1635cbeb873737610b1d1154bb43f6ab\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\cc2f57b0f7f35b585571e2c786f610e9\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\cc2f57b0f7f35b585571e2c786f610e9\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\918463324cb1a470401d7cfbbe3b6870\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\918463324cb1a470401d7cfbbe3b6870\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\bdcbde143b43bf4aa944f1cd8f97ffb3\transformed\emoji2-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\b9bfefd1ff529055fe577f3eb42e91da\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\b9bfefd1ff529055fe577f3eb42e91da\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\0ec23308de0e1e9806e14e4396cb418d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\korol\.gradle\caches\8.10\transforms\0ec23308de0e1e9806e14e4396cb418d\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\1635cbeb873737610b1d1154bb43f6ab\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\bdcbde143b43bf4aa944f1cd8f97ffb3\transformed\emoji2-1.3.0\AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\1635cbeb873737610b1d1154bb43f6ab\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\bdcbde143b43bf4aa944f1cd8f97ffb3\transformed\emoji2-1.3.0\AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\1635cbeb873737610b1d1154bb43f6ab\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\bdcbde143b43bf4aa944f1cd8f97ffb3\transformed\emoji2-1.3.0\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\1635cbeb873737610b1d1154bb43f6ab\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\bdcbde143b43bf4aa944f1cd8f97ffb3\transformed\emoji2-1.3.0\AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\1635cbeb873737610b1d1154bb43f6ab\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\bdcbde143b43bf4aa944f1cd8f97ffb3\transformed\emoji2-1.3.0\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\1635cbeb873737610b1d1154bb43f6ab\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\bdcbde143b43bf4aa944f1cd8f97ffb3\transformed\emoji2-1.3.0\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\1635cbeb873737610b1d1154bb43f6ab\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.3.0] C:\Users\korol\.gradle\caches\8.10\transforms\bdcbde143b43bf4aa944f1cd8f97ffb3\transformed\emoji2-1.3.0\AndroidManifest.xml:30:17-75
 uses-library#androidx.window.extensions
-ADDED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\2eb5542b411dfacc192aa0ee59860a4a\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+ADDED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\50699ae58772070bb5442229507c0d8a\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\2eb5542b411dfacc192aa0ee59860a4a\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+		ADDED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\50699ae58772070bb5442229507c0d8a\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\2eb5542b411dfacc192aa0ee59860a4a\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+		ADDED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\50699ae58772070bb5442229507c0d8a\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
 uses-library#androidx.window.sidecar
-ADDED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\2eb5542b411dfacc192aa0ee59860a4a\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+ADDED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\50699ae58772070bb5442229507c0d8a\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
 	android:required
-		ADDED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\2eb5542b411dfacc192aa0ee59860a4a\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+		ADDED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\50699ae58772070bb5442229507c0d8a\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
 	android:name
-		ADDED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\2eb5542b411dfacc192aa0ee59860a4a\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+		ADDED from [androidx.window:window:1.0.0] C:\Users\korol\.gradle\caches\8.10\transforms\50699ae58772070bb5442229507c0d8a\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\c616d0f7bbf0a506ea70f89211d05014\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\57d3d757852e840f80e92845a8f71392\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\c616d0f7bbf0a506ea70f89211d05014\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\57d3d757852e840f80e92845a8f71392\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\c616d0f7bbf0a506ea70f89211d05014\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\57d3d757852e840f80e92845a8f71392\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
 permission#com.itcourses.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\c616d0f7bbf0a506ea70f89211d05014\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\57d3d757852e840f80e92845a8f71392\transformed\core-1.13.1\AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\c616d0f7bbf0a506ea70f89211d05014\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\57d3d757852e840f80e92845a8f71392\transformed\core-1.13.1\AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\c616d0f7bbf0a506ea70f89211d05014\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\57d3d757852e840f80e92845a8f71392\transformed\core-1.13.1\AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\c616d0f7bbf0a506ea70f89211d05014\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\57d3d757852e840f80e92845a8f71392\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\c616d0f7bbf0a506ea70f89211d05014\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\57d3d757852e840f80e92845a8f71392\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
 uses-permission#com.itcourses.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\c616d0f7bbf0a506ea70f89211d05014\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\57d3d757852e840f80e92845a8f71392\transformed\core-1.13.1\AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\c616d0f7bbf0a506ea70f89211d05014\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.13.1] C:\Users\korol\.gradle\caches\8.10\transforms\57d3d757852e840f80e92845a8f71392\transformed\core-1.13.1\AndroidManifest.xml:26:22-94
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\cc2f57b0f7f35b585571e2c786f610e9\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\b9bfefd1ff529055fe577f3eb42e91da\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\cc2f57b0f7f35b585571e2c786f610e9\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\b9bfefd1ff529055fe577f3eb42e91da\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\cc2f57b0f7f35b585571e2c786f610e9\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
-meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
-receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
-	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.7] C:\Users\korol\.gradle\caches\8.10\transforms\b9bfefd1ff529055fe577f3eb42e91da\transformed\lifecycle-process-2.8.7\AndroidManifest.xml:30:17-78
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\korol\.gradle\caches\8.10\transforms\4997b34c0002ae5e5e0d7884a139c1ad\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
-	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\korol\.gradle\caches\8.10\transforms\4997b34c0002ae5e5e0d7884a139c1ad\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\korol\.gradle\caches\8.10\transforms\4997b34c0002ae5e5e0d7884a139c1ad\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\korol\.gradle\caches\8.10\transforms\4997b34c0002ae5e5e0d7884a139c1ad\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\korol\.gradle\caches\8.10\transforms\4997b34c0002ae5e5e0d7884a139c1ad\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\69f82fb14c95bb9711a6b741b251674a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.4.0] C:\Users\korol\.gradle\caches\8.10\transforms\4d4f1bda99a66ed7aa4275e5737ef53a\transformed\profileinstaller-1.4.0\AndroidManifest.xml:50:25-92

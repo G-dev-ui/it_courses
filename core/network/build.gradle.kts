@@ -21,8 +21,8 @@ android {
 
 dependencies {
     implementation(projects.core.common)
+    implementation(projects.core.database)
     api(libs.kotlinx.coroutines.android)
-    implementation(libs.androidx.datastore.preferences)
     api(libs.okhttp)
     api(libs.okhttp.logging)
     api(libs.retrofit)
